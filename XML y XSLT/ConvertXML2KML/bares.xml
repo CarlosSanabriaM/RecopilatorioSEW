@@ -1,0 +1,2614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directorios rdfa="true" rdfa-class="http://www.geonames.org/ontology#Feature">
+<directorio rdfa-id="http://www.gijon.es/directorios/show/10199-hat-trick-molinon" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/10199-hat-trick-molinon</url>
+  <identificador>10199</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2017-07-24 11:26:00 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f9/97170/190x110_v1_fotohattrick.png</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Hat Trick Molinón</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 984 060 958 - Reservas: +34 984 240 647</telefono>
+  <fax/>
+  <correo-electronico>hattrickmolinon@gmail.com</correo-electronico>
+  <web></web>
+  <horario><b>Domingo a jueves:</b> de 13:00 a 16:00 horas y de 20:00 a 23:00 horas<br/><b>                                                      Viernes y sábado:</b> de 13:00 a 16:00 horas y de 20:00 a 24:00 horas</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Situado en los bajos del emblemático estadio de El Molinón, el restaurante Hat Trick ofrece <b>cocina elaborado con los productos más frescos del Cantábrico</b>.<br/><br/><h3>Especialidades</h3>Arroz meloso con cigalitas y zamburiñas.<br/>Cazuela de chipirones con almejas.<br/>Carrilleras de ibérico a la sidra.<br/> <br/> <br/> </descripcion>
+  <direccion>Estadio de El Molinón, Grada Sur</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.535724 -5.637225</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Estadio de El Molinón, Grada Sur</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="597" rdfa-property="http://purl.org/dc/terms/subject">Congresos</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2898" rdfa-property="http://purl.org/dc/terms/subject">Club de Empresas de Turismo de Negocios</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/10185-carling-goal" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/10185-carling-goal</url>
+  <identificador>10185</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2017-07-24 11:20:33 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f9/97169/190x110_v1_carlinggoal.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Carling Goal</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 654 521 519</telefono>
+  <fax/>
+  <correo-electronico>carlinggoal@gmail.com</correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Carling Goal se ha convertido en uno de los locales de referencia en Gijón, por su excelente ubicación, en la <b>Puerta 14 del estadio El Molinón</b>, por los eventos que realiza a lo largo del año (Quedadas Moteras, Jornadas Gastronómicas Mexicanas, Japonesas, Veladas de Boxeo), por ser punto de encuentro de la afición del <b>Sporting de Gijón</b> y por la calidad de sus productos.<br/><br/>Cuenta con un amplio aparcamiento frente a sus instalaciones, está muy cerca del <b>Recinto Ferial Luis Adaro</b>, el Parque de &amp;quot;Isabel La Católica&amp;quot;, a 100 metros de la <b>playa de San Lorenzo </b>y muy cercano a una amplia <b>oferta hotelera</b>.<br/><br/>Contacto: Jana Suárez</descripcion>
+  <direccion>Estadio El Molinón, Puerta 14</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.536174 -5.637425</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Estadio El Molinón, Puerta 14</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="597" rdfa-property="http://purl.org/dc/terms/subject">Congresos</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2898" rdfa-property="http://purl.org/dc/terms/subject">Club de Empresas de Turismo de Negocios</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9965-paparazzi-playa" tipo="Empresas de Ocio,Restaurantes y sidrerías,Bares y cafés,Cultura y Ocio,Turismo">
+  <url>http://www.gijon.es/directorios/show/9965-paparazzi-playa</url>
+  <identificador>9965</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-07-24 08:59:28 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f6/65589/267x255_v1_paparazziplaya.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Paparazzi Playa</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"><p>984084445 – 691762054</p></telefono>
+  <fax/>
+  <correo-electronico>info@paparazziplaya.com</correo-electronico>
+  <web>www.paparazziplaya.com</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">En Gijón, entre el puerto deportivo y la Playa de Poniente, una alternativa diferente de ocio asturiano.<br/>Fusión entre Gastronomía, de la mano de Alejandro Urrutia, coctelería y música, disfrutando de su terrada de 400 m con las mejores vistas de Gijón.<br/>Salones privados para grupos reducidos y salones para eventos.<br/><br/>Precio desde 14 €<br/>Cocina cerrada Domingos noche.</descripcion>
+  <direccion>Edificio Talasoponiente – Planta 3<br/>Playa de Poniente – Dique Este – 33206 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.544243 -5.669031</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Edificio Talasoponiente – Planta 3<br/>Playa de Poniente – Dique Este – 33206 Gijón</direccion>
+  <categorias>
+    <categoria id="388" rdfa-property="http://purl.org/dc/terms/subject">Empresas de Ocio</categoria>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="165" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+    <categoria id="2884" rdfa-property="http://purl.org/dc/terms/subject">2014</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9736-ocean" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9736-ocean</url>
+  <identificador>9736</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:32 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f5/57682/800x600_v1_ocean.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Ocean</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Ubicada en la zona del puerto, esta terraza ofrece numerosas copas 
+premium y cócteles. Además, dispone de una pequeña carta donde podemos 
+encontrar sushi, preparación de wok, sandwiches y hamburguesas.<br/>
+Dispone además de menú de cenas con barra libre de mojitos.<br/><br/><h4 style="font-weight: bold;">Descuento del 15% con la tarjeta turística Gijón Card <br/></h4></descripcion>
+  <direccion>Calle de Rodríguez San Pedro, Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.543886 -5.666934</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle de Rodríguez San Pedro, Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="1227" rdfa-property="http://purl.org/dc/terms/subject">Gijón card. Tarjeta turística</categoria>
+    <categoria id="2741" rdfa-property="http://purl.org/dc/terms/subject">Gijón Card</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9728-bomarzo" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9728-bomarzo</url>
+  <identificador>9728</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:32 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f5/57527/720x480_v1_bomarzo.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Bömarzo</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 195 503</telefono>
+  <fax/>
+  <correo-electronico><a href="http://bomarzolaguia@gmail.com" title="Ir a bomarzolaguia@gmail.com" rel="external">bomarzolaguia@gmail.com</a></correo-electronico>
+  <web></web>
+  <horario>L-J: 8 a 18 h. V: 8 a 24h. S: 12 a 24h. D: 12 a 16 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Cafetería y restaurante, servimos desayunos y comidas, con menú del día todos los días de la semana a 15 €, menos domingos y festivos a 18 €. Tenemos platos como: arroz meloso con langostinos, manzana rellena de marisco en salsa de oricios, carrileras de buey al vino tinto, ensaladas,...<br/><br/>Un ambiente muy acogedor y hogareño.</descripcion>
+  <direccion>Dionisio de la Huerta 103, 33203 (La Guía)</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.531612 -5.632167</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Dionisio de la Huerta 103, 33203 - Dionisio de la Huerta 103, 33203 (La Guía)</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9669-policia-local-hermanos-felgueroso" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Estaciones de Servicio,Bares y cafés,Edificios y lugares de interés,Puerto deportivo,Saboreando - Restaurantes y sidrerías,Repostería,Comunicaciones,Deporte,Educación,Otros,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/9669-policia-local-hermanos-felgueroso</url>
+  <identificador>9669</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:42:19 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Policía Local (Hermanos Felgueroso)</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.535187 -5.658587</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="441" rdfa-property="http://purl.org/dc/terms/subject">Estaciones de Servicio</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="933" rdfa-property="http://purl.org/dc/terms/subject">Edificios y lugares de interés</categoria>
+    <categoria id="945" rdfa-property="http://purl.org/dc/terms/subject">Puerto deportivo</categoria>
+    <categoria id="955" rdfa-property="http://purl.org/dc/terms/subject">Saboreando - Restaurantes y sidrerías</categoria>
+    <categoria id="963" rdfa-property="http://purl.org/dc/terms/subject">Repostería</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9668-parque-de-la-serena" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Estaciones de Servicio,Bares y cafés,Edificios y lugares de interés,Puerto deportivo,Saboreando - Restaurantes y sidrerías,Comunicaciones,Deporte,Educación,Otros,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/9668-parque-de-la-serena</url>
+  <identificador>9668</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:43:39 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Parque de La Serena</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.530505 -5.664557</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="441" rdfa-property="http://purl.org/dc/terms/subject">Estaciones de Servicio</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="933" rdfa-property="http://purl.org/dc/terms/subject">Edificios y lugares de interés</categoria>
+    <categoria id="945" rdfa-property="http://purl.org/dc/terms/subject">Puerto deportivo</categoria>
+    <categoria id="955" rdfa-property="http://purl.org/dc/terms/subject">Saboreando - Restaurantes y sidrerías</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9667-playa-de-san-lorenzo-piles" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Estaciones de Servicio,Bares y cafés,Edificios y lugares de interés,Puerto deportivo,Comunicaciones,Deporte,Educación,Otros,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/9667-playa-de-san-lorenzo-piles</url>
+  <identificador>9667</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:41:08 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Playa de San Lorenzo (Piles)</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.540398 -5.646737</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="441" rdfa-property="http://purl.org/dc/terms/subject">Estaciones de Servicio</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="933" rdfa-property="http://purl.org/dc/terms/subject">Edificios y lugares de interés</categoria>
+    <categoria id="945" rdfa-property="http://purl.org/dc/terms/subject">Puerto deportivo</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9666-playa-de-san-lorenzo-nautico" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Estaciones de Servicio,Bares y cafés,Edificios y lugares de interés,Comunicaciones,Deporte,Educación,Otros,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/9666-playa-de-san-lorenzo-nautico</url>
+  <identificador>9666</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:40:26 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Playa de San Lorenzo (Naútico)</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.542731 -5.660169</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="441" rdfa-property="http://purl.org/dc/terms/subject">Estaciones de Servicio</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="933" rdfa-property="http://purl.org/dc/terms/subject">Edificios y lugares de interés</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9665-plaza-del-humedal" tipo="Zona Wifi,Boleras,Escuelas Infantiles,Sindicatos,Estaciones de Servicio,Bares y cafés,Comunicaciones,Deporte,Educación,Otros,Movilidad,Turismo">
+  <url>http://www.gijon.es/directorios/show/9665-plaza-del-humedal</url>
+  <identificador>9665</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-03-11 14:39:05 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Plaza del Humedal</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion/>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539628 -5.665979</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"></direccion>
+  <categorias>
+    <categoria id="202" rdfa-property="http://purl.org/dc/terms/subject">Zona Wifi</categoria>
+    <categoria id="393" rdfa-property="http://purl.org/dc/terms/subject">Boleras</categoria>
+    <categoria id="402" rdfa-property="http://purl.org/dc/terms/subject">Escuelas Infantiles</categoria>
+    <categoria id="418" rdfa-property="http://purl.org/dc/terms/subject">Sindicatos</categoria>
+    <categoria id="441" rdfa-property="http://purl.org/dc/terms/subject">Estaciones de Servicio</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="191" rdfa-property="http://purl.org/dc/terms/subject">Comunicaciones</categoria>
+    <categoria id="192" rdfa-property="http://purl.org/dc/terms/subject">Deporte</categoria>
+    <categoria id="2" rdfa-property="http://purl.org/dc/terms/subject">Educación</categoria>
+    <categoria id="194" rdfa-property="http://purl.org/dc/terms/subject">Otros</categoria>
+    <categoria id="198" rdfa-property="http://purl.org/dc/terms/subject">Movilidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9643-cafe-bar-la-tertulia" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9643-cafe-bar-la-tertulia</url>
+  <identificador>9643</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:29 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Bar La Tertulia</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/ Emilio Tuya, 34</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539228 -5.649515</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Emilio Tuya, 34</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9641-cerveceria-ipa" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9641-cerveceria-ipa</url>
+  <identificador>9641</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-05-13 14:18:35 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f5/53048/960x632_v1_IPA.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cervecería IPA</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://ipabar.es/</web>
+  <horario>De lunes a jueves y domingos de 18.30 – 23.00 h / Viernes y sábados de 18.30 – 
+01.00 h</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Cuando 
+nació <strong>IPA La cervecería del Millón de Ibus</strong> teníamos claro que la IPA 
+(<em>India Pale Ale</em>), con su característico<em> amargor</em>, iba a tener un gran protagonismo. Durante 
+muchos años, la reina de las <em>cervezas </em>que se comercializaban en<em> Asturies</em> era la <em>Belga</em>, mientras que en los 
+últimos tiempos algunos cerveceros han apostado por ofrecer a sus clientes 
+nuevos sabores y cervezas de mucha mayor complejidad y sabor. Nosotros todo lo 
+que sabemos, tenemos que empezar agradeciéndoselo a la desaparecida 
+cervecería<em> Malthaser</em> (finales de la década de 1990), pero sobre 
+todo al gran conocimiento y experiencia de nuestro amigo<strong> Andrés Torre</strong>, que tiene la que para 
+nosotros es sin lugar a dudas la mejor cervecería de Asturies, “<em>El Lúpulo 
+Feroz</em>”. De su mano hemos aprendido y disfrutado de auténticas joyas y sin 
+él hubiese sido imposible esta carta y sobre todo este proyecto. Hemos abierto 
+en<em> Xixón</em> por fin para que la<strong> Y</strong> de los<strong> IBUS</strong> fuese posible, ahora ya hay tres cervecerías 
+en las que los amantes de lo amargo, del sabor y de la calidad podrán disfrutar 
+en las tres ciudades: El<em> Cabanón</em>en Avilés, l<em>El Lúpulo Feroz</em> en <em>Uvieu</em> e<strong> IPA</strong>en <em>Xixón</em>.</descripcion>
+  <direccion>Marqués de Casa Valdés, 14 bajo</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.540328 -5.651752</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Marqués de Casa Valdés, 14 bajo</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+    <categoria id="2896" rdfa-property="http://purl.org/dc/terms/subject">Gijón sin Gluten</categoria>
+    <categoria id="2850" rdfa-property="http://purl.org/dc/terms/subject">Gluten</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9635-el-rincon-del-mar" tipo="Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/9635-el-rincon-del-mar</url>
+  <identificador>9635</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:29 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f5/52903/480x270_v1_bar.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">El Rincón del Mar</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">655409956</telefono>
+  <fax/>
+  <correo-electronico>cerveceriaelrincondelmar@hotmail.com</correo-electronico>
+  <web></web>
+  <horario>Lunes a viernes de 8.00h a 2.00h. Fines de semana y festivos de 9.30h a 3.00h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Local con terraza situado enfrente de la Playa San Lorenzo, con promociones de desayunos y una extensa carta de cervezas de importación. Cuenta con un rincon 
+árabe donde se sirven cachimbas y té marroquí.<br/>Ofrece fiestas temáticas y conciertos en directo. Bar orientado principalmetne al jazz.</descripcion>
+  <direccion>C/ Ezqurdia 31</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Ezqurdia 31</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9631-cafe-amalia" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9631-cafe-amalia</url>
+  <identificador>9631</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:29 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f5/52904/960x720_v1_barra.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Amalia</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 39 58 21</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Ambiente agradable y espacio abierto a la cultura. Ven a disfrutar de un buen pincheo, a degustar buenos vinos y embutidos de Güijuelo. Además podrás empaparte de buen arte, gracias a la colaboración de distintos artistas que de forma habitual expondrán en nuestro local. ¡¡UNA COMBINACIÓN PERFECTA!!!<br/>Más información en su <a href="https://www.facebook.com/pages/El-Caf%C3%A9-de-Amalia-Vinacoteca/380006612046487" title="Ir a https://www.facebook.com/pages/El-Caf%C3%A9-de-Amalia-Vinacoteca/380006612046487" rel="external">Facebook</a>.</descripcion>
+  <direccion>Calle 
+Campona 8 33211</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.529168 -5.680125</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle 
+Campona 8 33211</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9359-cafe-del-coto" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9359-cafe-del-coto</url>
+  <identificador>9359</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:20 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/41783/500x375_v1_cafedelcoto.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café del Coto</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Plaza de la República s/n (CMI El Coto) - 33204 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.533414 -5.649668</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Plaza de la República s/n (CMI El Coto) - 33204 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9357-pub-restaurante-geographic" tipo="Restaurantes y sidrerías,Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/9357-pub-restaurante-geographic</url>
+  <identificador>9357</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:20 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/41780/169x159_v1_geographic.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Pub Restaurante Geographic</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://www.pubgeographic.com/</web>
+  <horario>L - J: 17:00 - 02:00 h.<br/>V y S: 17:00 - 05:00 h.<br/>D: 17:00 - 02:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Plaza Villamanín (Somió) - 33203 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.53434 -5.621098</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Plaza Villamanín (Somió) - 33203 Gijón</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9356-cafeteria-el-quinto-vino" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9356-cafeteria-el-quinto-vino</url>
+  <identificador>9356</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cafetería EL Quinto Vino</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Avda. Manuel Llaneza, 50 - 33208 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avda. Manuel Llaneza, 50 - 33208 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9355-bodega-la-parrala" tipo="Bares y cafés,Vinos y Tapas,Turismo">
+  <url>http://www.gijon.es/directorios/show/9355-bodega-la-parrala</url>
+  <identificador>9355</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Bodega La Parrala</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 39 35 19</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Avda. del Mar Cantábrico, 10 - 33204 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.523527 -5.653563</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avda. del Mar Cantábrico, 10 - 33204 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="961" rdfa-property="http://purl.org/dc/terms/subject">Vinos y Tapas</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9354-la-general-compania-del-norte" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9354-la-general-compania-del-norte</url>
+  <identificador>9354</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">La General Compañía del Norte</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Salustio regueral, 5 - 33206 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.542942 -5.664657</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Salustio regueral, 5 - 33206 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9353-cafeteria-restaurante-ebano" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9353-cafeteria-restaurante-ebano</url>
+  <identificador>9353</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/41778/270x203_v1_ebano.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cafetería Restaurante Ébano</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 39 98 92</telefono>
+  <fax/>
+  <correo-electronico>info@cafeteriarestauranteebano.es</correo-electronico>
+  <web>http://cafeteriarestauranteebano.pyme10.com/cafe-ebano_59967.html</web>
+  <horario>Desde las 07:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Matemático Pedrayes, 3 - 33207 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location"></localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Matemático Pedrayes, 3 - 33207 Gijón</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9352-cerveceria-la-vieja-escuela" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9352-cerveceria-la-vieja-escuela</url>
+  <identificador>9352</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cervecería La Vieja Escuela</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 39 83 47</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Avda. de Roces, 950 - 33211 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.520311 -5.682391</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avda. de Roces, 950 - 33211 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9350-bodega-jayla" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9350-bodega-jayla</url>
+  <identificador>9350</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/41539/800x526_v1_bodega-jayla.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Bodega Jayla</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 34 33 75</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Decano Prendes Pando, 10 - 33207 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.537 -5.666266</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Decano Prendes Pando, 10 - 33207 Gijón</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9349-zero-bar" tipo="Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/9349-zero-bar</url>
+  <identificador>9349</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/41507/600x341_v1_zerobar.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Zero Bar</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 19 20 33</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario>De 12:00 h. a cierre</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Bar de apertura diaria, desde las 12 del mediodia. Manteniendo un buen 
+ambiente todas las tardes de la semana y las noches del jueves, viernes y
+ sábado. Música moderna y muy bailable. Actuaciones y eventos de todo 
+tipo (fiestas, despedidas, cumpleaños, actos culturales, etc.) a lo largo de 
+todo el año.</descripcion>
+  <direccion>Avda. Pablo Iglesias, 84 - 33204 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.535242 -5.648853</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avda. Pablo Iglesias, 84 - 33204 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="2580" rdfa-property="http://purl.org/dc/terms/subject">Música directo</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9342-el-cafetin-de-luci" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9342-el-cafetin-de-luci</url>
+  <identificador>9342</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40991/257x237_v1_elcafetindeluci.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">El Cafetín de Luci</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 49 17 47</telefono>
+  <fax/>
+  <correo-electronico>info@elcafetindeluci.com</correo-electronico>
+  <web>http://www.elcafetindeluci.com/index.php/id/3/claves/el-cafetin-de-luci-gijon-asturias-cafeteria-cafe-promociones-productos-desayunos-meriendas</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Cigarreres, 23 - 33211 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.52047 -5.677885</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Cigarreres, 23 - 33211 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9341-babel-cocktail-bar" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9341-babel-cocktail-bar</url>
+  <identificador>9341</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40990/420x385_v1_babel.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Babel Cocktail Bar</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 31 93 32 / 696 15 20 59</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario>De 20:00 a 00:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Libertad, 2 - 33206 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.541653 -5.664721</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Libertad, 2 - 33206 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9340-double-coffees-cocktails" tipo="Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/9340-double-coffees-cocktails</url>
+  <identificador>9340</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40989/183x200_v1_double.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Double Coffees &amp;amp; Cocktails</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 39 37 22 / 985 39 28 09<strong></strong></telefono>
+  <fax/>
+  <correo-electronico>comercial@doublegijon.com</correo-electronico>
+  <web></web>
+  <horario>L-D de 07:00 hasta cierre</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Pintor Manuel Medina, 29-31 - 33210
+Gijón<br/> </direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.521256 -5.668551</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Pintor Manuel Medina, 29-31 - 33210
+Gijón<br/> </direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9339-cafe-restaurante-el-tostadero" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9339-cafe-restaurante-el-tostadero</url>
+  <identificador>9339</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40988/177x160_v1_tostadero.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café-Restaurante El Tostadero</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 33 32 78</telefono>
+  <fax/>
+  <correo-electronico>info@tostaderoplaya.com</correo-electronico>
+  <web>http://www.tostaderoplaya.com/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion><p>
+Avda. José García Bernardo, 66 - 33203 Gijón<br/></p></direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.541748 -5.644572</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address"><p>
+Avda. José García Bernardo, 66 - 33203 Gijón<br/></p></direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9338-cafeteria-la-caracola" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9338-cafeteria-la-caracola</url>
+  <identificador>9338</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40987/800x536_v1_caracola.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cafetería La Caracola</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Jacobo Olañeta, 2 - 33202 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.541956 -5.660349</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Jacobo Olañeta, 2 - 33202 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9337-cafe-180-grados" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9337-cafe-180-grados</url>
+  <identificador>9337</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café 180 Grados</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 31 93 32</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Avda. gaspar García Laviana, 75 - 33209 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.525682 -5.664903</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avda. gaspar García Laviana, 75 - 33209 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9336-ca-beleno" tipo="Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/9336-ca-beleno</url>
+  <identificador>9336</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:19 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40866/447x514_v1_cabeleno.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Ca Beleño</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 35 97 81</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://www.cabeleno.com/</web>
+  <horario>A partir de las 17:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Rodríguez Sampedro, 39 - 33206 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.541884 -5.669302</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Rodríguez Sampedro, 39 - 33206 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9316-cafe-bar-alambique" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9316-cafe-bar-alambique</url>
+  <identificador>9316</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40079/863x470_v1_alambique.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café - Bar Alambique</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 34 82 82</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://www.cafealambique.com/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Avda. de la Constitución, 52 - 33207 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.534527 -5.66883</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avda. de la Constitución, 52 - 33207 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9315-cafe-hoyo-19" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9315-cafe-hoyo-19</url>
+  <identificador>9315</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40077/538x510_v1_hoyo19.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Hoyo 19</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 39 50 30</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Corín Tellado, 5 - 33204 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.527992 -5.641687</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Corín Tellado, 5 - 33204 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9312-restaurante-la-darsena" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9312-restaurante-la-darsena</url>
+  <identificador>9312</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f4/40074/220x183_v1_ladarsena.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Restaurante La Dársena</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 35 30 24 / 985 35 08 66</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Claudio Alvargonzález, 10 - 33201 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.546162 -5.664882</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Claudio Alvargonzález, 10 - 33201 Gijón</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9307-la-taberna-gigia" tipo="Bares y cafés,Vinos y Tapas,Turismo">
+  <url>http://www.gijon.es/directorios/show/9307-la-taberna-gigia</url>
+  <identificador>9307</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39838/960x720_v1_tabernagigia.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">La Taberna Gigia</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 49 04 19</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://tabernagigia.blogspot.com/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Óscar Olavarría, 8 - 33201</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.545888 -5.664276</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Óscar Olavarría, 8 - 33201</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="961" rdfa-property="http://purl.org/dc/terms/subject">Vinos y Tapas</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9306-el-callejon-bar" tipo="Bares y cafés,Vinos y Tapas,Turismo">
+  <url>http://www.gijon.es/directorios/show/9306-el-callejon-bar</url>
+  <identificador>9306</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39868/179x96_v1_elcallejon.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">El Callejón Bar</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Arzobispo Valdés, 1 - 33201</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.545222 -5.662972</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Arzobispo Valdés, 1 - 33201</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="961" rdfa-property="http://purl.org/dc/terms/subject">Vinos y Tapas</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9299-bar-ramon" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9299-bar-ramon</url>
+  <identificador>9299</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39755/251x292_v1_barramon.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Bar Ramón</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 36 00 48</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario>De lunes a sábado: 08:00 - 16:00 h.<br/>Domingo cerrado</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Aguado, 40 - 33203</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539843 -5.648081</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Aguado, 40 - 33203</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9295-pulperia-o-pazo-do-paradela" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9295-pulperia-o-pazo-do-paradela</url>
+  <identificador>9295</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39723/167x203_v1_opazodoparadela.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Pulpería O Pazo do Paradela</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 13 39 16</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Especialidades gallegas: pulpo, lacón, cachelos, pimientos del padrón, tapas.<br/><br/>Cachopos: gallego, montañés, asturiano, leonés.</descripcion>
+  <direccion>Emilio Tuya, 30</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539139 -5.649668</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Emilio Tuya, 30</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9291-cafe-vinateria-el-badulaque" tipo="Bares y cafés,Vinos y Tapas,Turismo">
+  <url>http://www.gijon.es/directorios/show/9291-cafe-vinateria-el-badulaque</url>
+  <identificador>9291</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café-Vinatería El Badulaque</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">686 38 25 54</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Doctor Aquilino Hurlé, 24</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539263 -5.647383</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Doctor Aquilino Hurlé, 24</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="961" rdfa-property="http://purl.org/dc/terms/subject">Vinos y Tapas</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9289-mi-capricho" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9289-mi-capricho</url>
+  <identificador>9289</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Mi capricho</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Doctor Aquilino Hurlé, 25</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.538369 -5.648467</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Doctor Aquilino Hurlé, 25</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9287-cafeteria-hurle-15" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9287-cafeteria-hurle-15</url>
+  <identificador>9287</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39712/319x158_v1_hurle15.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cafetería Hurlé 15</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 36 54 87</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Doctor Aquilino Hurlé, 15 - 33202</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.537708 -5.649003</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Doctor Aquilino Hurlé, 15 - 33202</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9286-cafe-restaurante-de-mouzo" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9286-cafe-restaurante-de-mouzo</url>
+  <identificador>9286</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39711/600x450_v1_demouzo.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café-Restaurante De Mouzo</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 04 24 24</telefono>
+  <fax/>
+  <correo-electronico>restaurantedemouzo@hotmail.es</correo-electronico>
+  <web></web>
+  <horario>De 10:00 a 00:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Vinos, tapas, cocina creativa a la carta, menú del día, desayunos con bizcochos caseros y rosquillas.<br/><br/>Martes cerrado.</descripcion>
+  <direccion>Menéndez y Pelayo, 10</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.538528 -5.652672</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Menéndez y Pelayo, 10</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9285-vinateria-el-bochinche" tipo="Bares y cafés,Vinos y Tapas,Turismo">
+  <url>http://www.gijon.es/directorios/show/9285-vinateria-el-bochinche</url>
+  <identificador>9285</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39709/180x170_v1_bochinche.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Vinatería El Bochinche</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 37 42 32</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Manso, 18 - 33203</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539699 -5.648628</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Manso, 18 - 33203</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="961" rdfa-property="http://purl.org/dc/terms/subject">Vinos y Tapas</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9284-bar-ovinana" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9284-bar-ovinana</url>
+  <identificador>9284</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Bar Oviñana</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Piles, 15</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.538093 -5.647973</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Piles, 15</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9283-vinateria-tienda-delicatessen-la-artesa-de-la-guela" tipo="Tiendas gourmet,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9283-vinateria-tienda-delicatessen-la-artesa-de-la-guela</url>
+  <identificador>9283</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:18 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39707/900x600_v1_laartesadelaguela.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Vinatería-Tienda Delicatessen La Artesa de la Güela</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984  39 86 60</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://www.spanish-menu.com/restaurant_profile.php?UG_hodnota_id=90&amp;amp;sn=5</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Un lugar donde se puede degustar sus productos o llevárselos a casa. Los productos más destacados son ibéricos y embutidos de León (cecina, chorizo, jamón, salchichón), jamón serrano de Teruel con denominación de origen, quesos de cabra, oveja y manchego elaborados de forma tradicional, conservas de verduras, legumbres y hortalizas con denominación de origen.<br/><br/>Capacidad para hasta 80 personas.</descripcion>
+  <direccion>Manso, 14 - 33202</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539493 -5.648102</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Manso, 14 - 33202</direccion>
+  <categorias>
+    <categoria id="917" rdfa-property="http://purl.org/dc/terms/subject">Tiendas gourmet</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9279-cafe-santorini" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9279-cafe-santorini</url>
+  <identificador>9279</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:17 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39702/251x201_v1_cafe.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Santorini</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Avda. Rufo Rendueles, 18</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.54006 -5.646922</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avda. Rufo Rendueles, 18</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9269-sal-y-azucar-salon-de-te" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9269-sal-y-azucar-salon-de-te</url>
+  <identificador>9269</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-07-23 11:52:02 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39377/640x853_v1_sal%26azucar.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Sal y Azúcar, salón de té</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 13 04 01</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Gloria Fuertes, 14 - 33204</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.525398 -5.650913</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Gloria Fuertes, 14 - 33204</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9266-vinateria-las-3-marias" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9266-vinateria-las-3-marias</url>
+  <identificador>9266</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:17 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39372/170x170_v1_lastresmarias.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Vinatería Las 3 Marías</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">649 435 226</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><ul><li>Vinos, tapas, especialidad en tostas caseras.</li></ul></descripcion>
+  <direccion>Numa Gilhou, 16 - 33206</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.542016 -5.665901</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Numa Gilhou, 16 - 33206</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9265-la-perla-del-norte" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9265-la-perla-del-norte</url>
+  <identificador>9265</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:17 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39371/222x271_v1_la_perla_del_norte.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">La Perla del Norte</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Calle del buen suceso, 2</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.543189 -5.66367</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle del buen suceso, 2</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9264-cafeteria-san-rafael" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9264-cafeteria-san-rafael</url>
+  <identificador>9264</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:17 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39369/300x118_v1_sanra.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cafetería San Rafael</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 38 94 53</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Avenida Manuel Llaneza, 49 - 33208</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.534904 -5.665032</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avenida Manuel Llaneza, 49 - 33208</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9263-cafeteria-manacor" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9263-cafeteria-manacor</url>
+  <identificador>9263</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:17 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39368/180x154_v1_manacor.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cafetería Manacor</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 49 24 65</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario>De lunes a jueves: 07:30 - 23:00 h.<br/>Viernes: 07:30 - 0:00 h.<br/> Sábado: 08:00 - 0:00 h.<br/> Domingo: 08:00 - 23:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><ul><li>Acepta reservas</li></ul><ul><li>Indicado para grupos</li></ul><ul><li>Enfocado a los niños</li></ul><ul><li>Para llevar</li></ul><ul><li>Servicio de camareros</li></ul><ul><li>Terraza</li></ul></descripcion>
+  <direccion>Plaza Florencio Rodríguez, 1 - 33206</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.542263 -5.663675</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Plaza Florencio Rodríguez, 1 - 33206</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9262-vinateria-reconquista" tipo="Bares y cafés,Vinos y Tapas,Turismo">
+  <url>http://www.gijon.es/directorios/show/9262-vinateria-reconquista</url>
+  <identificador>9262</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:17 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39366/765x506_v1_reconquista.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Vinatería Reconquista</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 33 46 99</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Aguado, 1</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.537513 -5.650419</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Aguado, 1</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="961" rdfa-property="http://purl.org/dc/terms/subject">Vinos y Tapas</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9261-el-pindal" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9261-el-pindal</url>
+  <identificador>9261</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:17 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39362/615x413_v1_elpindal.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">El Pindal</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 38 32 40</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Juan Alvargonzález, 47</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.530221 -5.667843</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Juan Alvargonzález, 47</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9258-cafe-musical-xareu" tipo="Bares y cafés,Restaurantes y sidrerías,Turismo">
+  <url>http://www.gijon.es/directorios/show/9258-cafe-musical-xareu</url>
+  <identificador>9258</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2016-12-20 09:43:01 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f8/81566/960x643_v1_XAREU1.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Musical Xaréu</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 33 31 17</telefono>
+  <fax/>
+  <correo-electronico>info@cafexareu.com</correo-electronico>
+  <web>http://es-la.facebook.com/people/El-Xareu/100001935240216</web>
+  <horario>De lunes a jueves de 08:00 a 23:00 h.<br/>Viernes de 08:00 a 05:00 h.<br/>Sábados de 10:00 a 05:00 h.<br/>Domingos de 10:00 a 23:00 h. Festivos a partir 
+de las 10:00 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Cafetería situada enfrente de la plaza de toros de El Bibio- Gijón. Terraza durante todo el año. Retransmisiones deportivas en pantallas gigantes de 4x3 y 3x2 metros.<br/><br/>Amplia carta de vinos, cervezas, gin-tonics, platos combinados y tapas.<br/>Especialidad en café 100% arábica y latte art.<br/><br/>Karaoke con más de 5.000 canciones. Salón privado para eventos, fiestas, karaokes, cumpleaños, grupos, etc.<br/>Wi-Fi Gratuito.</descripcion>
+  <direccion>Avenida Pablo Iglesias, 96</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.535137 -5.6469</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avenida Pablo Iglesias, 96</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="2899" rdfa-property="http://purl.org/dc/terms/subject">Gijón accesible</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9254-misguevos-bar" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9254-misguevos-bar</url>
+  <identificador>9254</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:17 +0100</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Misgüevos Bar</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">(+34) 985 36 22 72</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Emilio Tuya, 32</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539053 -5.649765</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Emilio Tuya, 32</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9253-golden-gastrobar" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9253-golden-gastrobar</url>
+  <identificador>9253</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:17 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39033/186x196_v1_golden.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Golden Gastrobar</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://www.goldenbar.es/</web>
+  <horario></horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Aguado, 15 - 33202 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.538548 -5.649583</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Aguado, 15 - 33202 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9252-vinateria-a-santa-compana" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9252-vinateria-a-santa-compana</url>
+  <identificador>9252</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:17 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39032/180x186_v1_asantacompana.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Vinatería A Santa Compaña</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">(+34) 985 84 65 43</telefono>
+  <fax/>
+  <correo-electronico>serca1@hotmail.es</correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Vinatería coqueta y cálida. Disfruta de un buen 
+vino acompañado de un buen pinchín.</descripcion>
+  <direccion>Avenida del Llano, 65 - 33209 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.525601 -5.663273</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avenida del Llano, 65 - 33209 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9251-cafe-san-pedro" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9251-cafe-san-pedro</url>
+  <identificador>9251</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:06:17 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39031/331x298_v1_cafesanpedro.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café San Pedro</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">(+34) 985 35 99 13</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Cabrales, 4 - 33201 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.544279 -5.661824</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Cabrales, 4 - 33201 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9250-cafe-capuccino" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9250-cafe-capuccino</url>
+  <identificador>9250</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-01-21 14:53:46 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39030/225x225_v1_cafecapuccino.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Capuccino</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">(+34) 985 34 77 15</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Corrida, 23 - 33206 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.542158 -5.664077</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Corrida, 23 - 33206 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9249-la-casa-del-cafe" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/9249-la-casa-del-cafe</url>
+  <identificador>9249</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-02-17 12:45:53 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39029/720x540_v1_lacasadelcafe.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">La Casa del Café</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">(+34) 984 39 46 61</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario>Lunes - viernes: 06:00 - 22:30 h.<br/>Fin de semana: 08:00 - 22:30 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Café de Etiopía, pinchos de primera y una atención de lujo en el centro de Gijón, junto a la estación de autobuses.</descripcion>
+  <direccion>Avenida de portugal, 5 - 33207 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539197 -5.667564</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avenida de portugal, 5 - 33207 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/9248-cafe-los-juzgados" tipo="Bares y cafés,Restaurantes y sidrerías,Turismo">
+  <url>http://www.gijon.es/directorios/show/9248-cafe-los-juzgados</url>
+  <identificador>9248</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-07-22 15:43:01 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39028/500x373_v1_cafe-los-juzgados.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Los Juzgados</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 19 54 56</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Situada en la playa de Poniente, muy cerquita del Acuario. Especialistas en repostería casera y chocolate con churros para desayunar y merendar.<br/>Sorprendente variedad de pinchos, sándwiches y hamburguesas.<br/>Menú diario y platos combinados.<br/>Amplio comedor con cocina abierta todo el día.<br/><br/><h4 style="font-weight: bold;">Descuento del 15% con la tarjeta turística Gijón Card<br/></h4></descripcion>
+  <direccion>Juan Carlos I, 6 - 33212 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.541091 -5.673808</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Juan Carlos I, 6 - 33212 Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="1227" rdfa-property="http://purl.org/dc/terms/subject">Gijón card. Tarjeta turística</categoria>
+    <categoria id="2741" rdfa-property="http://purl.org/dc/terms/subject">Gijón Card</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/8708-johy-los-manzanos" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/8708-johy-los-manzanos</url>
+  <identificador>8708</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-01-21 14:50:40 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37682/256x192_v1_JohyLosManzanos.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Johy-Los Manzanos</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 37 21 90</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Doctor Aquilino Hurle, 31</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539547 -5.647608</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Doctor Aquilino Hurle, 31</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="2648" rdfa-property="http://purl.org/dc/terms/subject">Turismo-Sidra dop brut</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/8298-vinarteria-canaa" tipo="Vinos y Tapas,Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/8298-vinarteria-canaa</url>
+  <identificador>8298</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2017-06-27 17:07:35 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37247/960x640_v1_canaa.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Vinartería Canaa</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Un bonito local y dos terrazas donde poder tomar desde un buen vino, acompañado de buenas tapas, hasta un cava o gin tonic, disfrutando al mismo tiempo de las interesantes exposiciones de arte que cuelgan habitualmente de sus paredes. Todo ello en El Carmen, la zona de moda para tomar vinos en Gijón.</descripcion>
+  <direccion>C/ Salustio Regueral, 10. 33206. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.542903 -5.66471</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/ Salustio Regueral, 10. 33206. Gijón.</direccion>
+  <categorias>
+    <categoria id="961" rdfa-property="http://purl.org/dc/terms/subject">Vinos y Tapas</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/8243-cafeteria-korynto" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/8243-cafeteria-korynto</url>
+  <identificador>8243</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:55 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37217/357x357_v1_cafe.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cafetería Korynto</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 984 392 974</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Cafetería situada en pleno centro de la ciudad, concretamente en el paseo de la calle Corrida.<br/><br/></div><ul><li>No permite la entrada de animales al establecimiento.<br/></li></ul></descripcion>
+  <direccion>Calle Corrida, 19. 33206. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.540597 -5.663637</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Corrida, 19. 33206. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/8199-oquen-cafe" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/8199-oquen-cafe</url>
+  <identificador>8199</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:53 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37196/300x225_v1_oquen.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Oquen Café</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 397 204</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><ul><li>Admite animales sólo en terraza.<br/></li></ul></descripcion>
+  <direccion>Avenida de la Argentina, 77. 33213. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.538349 -5.702755</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avenida de la Argentina, 77. 33213. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/8185-les-candases-cafe" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/8185-les-candases-cafe</url>
+  <identificador>8185</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:52 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37191/600x463_v1_candases.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Les Candases Café</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 134 298</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://www.cafelescandases.com/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Más de 60 cafés especiales y distintos... cocktails, infusiones 
+especiales, chocolates, combinados, zumos, batidos naturales, copas de 
+helado, platos combinados, sandwiches y una amplia carta de cervezas, en
+ botella y barril, entre las que destaca la “Sir. Roberts” de 
+elaboración propia.<br/></div><br/><div style="text-align: justify;">Nuestra larga experiencia nos permite asegurar la máxima calidad, 
+junto con un esmerado servicio y trato exquisito hacia nuestros 
+clientes. Todo esto y mucho más te espera en <strong>Les Candases</strong> donde podrás tomarte desde un café hasta comer plácidamente o probar un buen pincho de tortilla.<br/></div><br/><p>Estamos
+ localizados en la zona centro de la cuidad, en la esquina de la calle 
+Marqués de Casa Valdés, una vía de gran tránsito y con afluencia de 
+gente. El interior de la cafetería está decorado con motivos musicales y
+ diferentes atrezos, con un toque particular al mismo tiempo que 
+distinguido. Todo en su conjunto lo convierte en un local entrañable.</p><p><strong>Les Candases</strong> cuenta con una barra para dar un correcto servicio a
+ la vez que ágil y está condicionado con varias mesas y sillas bastante 
+cómodas. Haz de nuestra cafetería tu punto de encuentro y partida de tus
+ citas y reuniones. Además, disponemos de una pantalla gigante de 50&amp;quot; 
+para que puedas ver tus retransmisiones deportivas favoritas. ¡Te 
+esperamos!</p><ul><li>Admite animales.<br/></li></ul></descripcion>
+  <direccion>Calle Garcilaso de la Vega, 2. 33202. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539376 -5.655295</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Garcilaso de la Vega, 2. 33202. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/8177-laam-cafe" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/8177-laam-cafe</url>
+  <identificador>8177</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:52 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37189/500x375_v1_laam.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Laam Café</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">677 028 443</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><ul><li>Admite animales.<br/></li></ul></descripcion>
+  <direccion>Calle de La Sierra del Sueve, 13. 33211. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.529202 -5.681705</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle de La Sierra del Sueve, 13. 33211. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/8120-gota-a-gota" tipo="Bares y cafés,Vinos y Tapas,Restaurantes y sidrerías,Turismo">
+  <url>http://www.gijon.es/directorios/show/8120-gota-a-gota</url>
+  <identificador>8120</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-07-23 10:45:42 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37164/800x600_v1_gota.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Gota a Gota</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 162 156</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><p style="text-align: justify;">Gota a gota, hemos hecho un sueño realidad. Con el mejor ambiente, la más completa selección de vinos y la clientela más selecta.</p><div style="text-align: justify;">
+</div><p style="text-align: justify;">Desde primera hora de la mañana podrás disfrutar de los desayunos más completos, avanzando el día nos
+ vamos transformando en uno de los locales más especializados en vinos 
+de esta maravillosa ciudad, para poner el punto final a un día 
+inolvidable con nuestra mejor coctelería.</p>
+<p style="text-align: justify;">En
+ temporada, nuestra terraza y la reconocida caracterización de nuestro 
+local para las más originales fiestas temáticas dejarán un grato 
+recuerdo.</p>
+<p>Ven y compruébalo.</p><ul><li>Admite animales.<br/></li></ul></descripcion>
+  <direccion>Avenida del Llano, 21. 33209. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.53026 -5.661427</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avenida del Llano, 21. 33209. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="961" rdfa-property="http://purl.org/dc/terms/subject">Vinos y Tapas</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/8106-espresso-republic-coffee" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/8106-espresso-republic-coffee</url>
+  <identificador>8106</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:49 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37159/800x532_v1_espresso.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Espresso Republic Coffee</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 984 395 056</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://es-es.facebook.com/pages/ESPRESSO-REPUBLIC/248513625202351</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><ul><li>Admite animales siempre que no sean muy grandes.<br/></li></ul></descripcion>
+  <direccion>Calle Covadonga, 18. 33205. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.53938 -5.659357</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Covadonga, 18. 33205. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/8085-el-rincon-de-capua" tipo="Bares y cafés,Vinos y Tapas,Turismo">
+  <url>http://www.gijon.es/directorios/show/8085-el-rincon-de-capua</url>
+  <identificador>8085</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:48 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37151/751x500_v1_capua.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">El Rincón de Capua</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 984 399 895</telefono>
+  <fax/>
+  <correo-electronico>elrincondecapua@gmail.com</correo-electronico>
+  <web>http://www.elrincondecapua.es/</web>
+  <horario>Martes a viernes: 8:00 a cierre. Sábado y domingo: 11:00 a cierre.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><p style="text-align: justify;">El Rincón de Capua es un <strong>Bar de Tapas</strong> donde encontrará una oferta gastronómica variada y original sin olvidarse de la tierra donde está situado: <strong>Asturias</strong>.</p><div style="text-align: justify;">
+</div><p style="text-align: justify;">En la carta encontrará <strong>ensaladas</strong> únicas, <strong>raciones</strong> generosas, <strong>tostas</strong> muy sabrosas y unos estupendos <strong>vinos</strong>; todo ello regado
+por una excelente <strong>sidra</strong> y amenizado con buena <strong>música</strong>. Todos nuestros platos están pensados para compartir y lo cierto es que comer aquí es realmente económico.</p>
+<p>Además disponen de un <strong style="font-weight: normal;">Menú del día</strong> y <strong style="font-weight: normal;">una de las cervezas mejor tiradas</strong> de <strong style="font-weight: normal;">Gijón</strong>.</p><p><span style="font-weight: bold;">Descanso:</span> Lunes</p><ul><li>No admite animales.<br/></li></ul>
+<p></p></descripcion>
+  <direccion>Calle Capua, 18. 33202. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.540239 -5.658123</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Capua, 18. 33202. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="961" rdfa-property="http://purl.org/dc/terms/subject">Vinos y Tapas</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/8071-el-capricho" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/8071-el-capricho</url>
+  <identificador>8071</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:48 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37147/358x480_v1_capricho.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">El Capricho</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 984 196 274</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Calle del Marqués de San Esteban, 7. 33206. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.543218 -5.665327</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle del Marqués de San Esteban, 7. 33206. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/8065-el-cafetal" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/8065-el-cafetal</url>
+  <identificador>8065</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:48 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37146/600x451_v1_cafetal.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">El Cafetal</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 984 190 682</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Moderna cafetería de Gijón situada en pleno centro de la ciudad, frente al Centro Comercial San Agustín.<br/><br/>En la parte de abajo de la cafetería ofrece una zona de juegos con billar.<br/> <br/><ul><li>Permite la entrada de animales al establecimiento.<br/></li></ul></descripcion>
+  <direccion>Calle La Muralla, 3. 33202. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.541157 -5.659217</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle La Muralla, 3. 33202. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/8037-chaman-vinoteca-cafe" tipo="Bares y cafés,Vinos y Tapas,Turismo">
+  <url>http://www.gijon.es/directorios/show/8037-chaman-vinoteca-cafe</url>
+  <identificador>8037</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:46 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37129/92x92_v1_chaman.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Chaman Vinoteca Café</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel"/>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Vinatería y lugar de tapeo situado en pleno centro de la ciudad, concretamente en la ruta de los vinos.<br/></div></descripcion>
+  <direccion>Calle San Bernardo, 3. 33201. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.544411 -5.662371</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle San Bernardo, 3. 33201. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="961" rdfa-property="http://purl.org/dc/terms/subject">Vinos y Tapas</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7989-cafeteria-roger-s" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/7989-cafeteria-roger-s</url>
+  <identificador>7989</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:44 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37118/1600x1200_v1_rogers.JPG</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cafetería Roger's</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 390 547</telefono>
+  <fax/>
+  <correo-electronico>cafeteriarogers@hotmail.com</correo-electronico>
+  <web>http://cafeteriarogers.blogspot.com/2010/06/blog-post_30.html</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">La cafetería Roger's se inaguro el 2 de Mayo de 1978 y en la actualidad, 
+(completamente reformada), es una de las cafeterias mas distinguidas y 
+con mas solera de Gijon , Sus grandes ventanales hacen de la Rogers un 
+lugar abierto al exterior, su decoración funcional e intimista y la 
+atencion personalizada de sus profesionales hacen que el cliente se 
+pueda sentir comodo en todo momento.<br/> <br/></div><div style="text-align: justify;">Amplia carta con desayunos, meriendas, platos combinados, tapas, pinchos, sándwiches, irlandeses y escoceses…<br/><br/>Disponen de zona wifi, instalaciones de aire climatizado, cambiador de bebés...<br/><br/>En definitiva este establecimiento es una parada obligatoria si estás en Gijón.<br/></div><br/><ul><li>No permite la entrada de animales al establecimiento.<br/></li></ul><span style="font-weight: bold;">Descansa:</span> miércoles</descripcion>
+  <direccion>Avenida Manuel Llaneza 47. 33208. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.535122 -5.664705</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avenida Manuel Llaneza 47. 33208. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7982-cafeteria-la-criolla" tipo="Bares y cafés,Restaurantes y sidrerías,Turismo">
+  <url>http://www.gijon.es/directorios/show/7982-cafeteria-la-criolla</url>
+  <identificador>7982</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-07-23 10:41:31 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37117/595x454_v1_criolla.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cafetería La Criolla</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 360 075</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://www.cafeterialacriolla.com/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><span style="font-weight: bold;"></span></descripcion>
+  <direccion>Calle Uría, 6 bajo. 33202. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.538995 -5.656975</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Uría, 6 bajo. 33202. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7975-cafeteria-banus" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/7975-cafeteria-banus</url>
+  <identificador>7975</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2016-04-01 13:40:48 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37114/640x478_v1_banus.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cafetería Banús</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 356 767</telefono>
+  <fax/>
+  <correo-electronico>cafeteriabanus@wanadoo.es</correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Cafetería situada frente a la playa de Poniente con una amplia terraza en el paseo del muelle.<br/><br/><ul><li>No permite la entrada de animales al establecimiento.<br/></li></ul></descripcion>
+  <direccion>Calle Rodríguez Sampedro, 5. 33206. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.543089 -5.666427</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Rodríguez Sampedro, 5. 33206. Gijón.</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7968-cafe-vinoteca-raymond" tipo="Bares y cafés,Vinos y Tapas,Turismo">
+  <url>http://www.gijon.es/directorios/show/7968-cafe-vinoteca-raymond</url>
+  <identificador>7968</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:43 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37113/160x120_v1_brocheta.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Vinoteca Raymond</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 171 850</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Cafetería situada en la centro de Gijón, muy próxima al paseo de begoña.<br/></div><br/><ul><li>Se permite la entrada de animales al establecimiento.<br/></li></ul></descripcion>
+  <direccion>Calle Covadonga, 17. 33205. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.53875 -5.661813</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Covadonga, 17. 33205. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="961" rdfa-property="http://purl.org/dc/terms/subject">Vinos y Tapas</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7961-cafe-vinos-domine" tipo="Bares y cafés,Vinos y Tapas,Turismo">
+  <url>http://www.gijon.es/directorios/show/7961-cafe-vinos-domine</url>
+  <identificador>7961</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:43 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37112/590x590_v1_domine.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Vinos Dómine</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">609 973 876</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><span style="font-weight: bold;">Descansa:</span> Domingo<br/><br/>Cafeterýa y vinatería con gran variedad de pinchos.<br/><br/><ul><li>No permite la entrada de animales al establecimiento.<br/></li></ul></descripcion>
+  <direccion>Calle Santa Doradía, 23. 33202. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.538015 -5.65705</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Santa Doradía, 23. 33202. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="961" rdfa-property="http://purl.org/dc/terms/subject">Vinos y Tapas</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7954-cafe-tenampa" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/7954-cafe-tenampa</url>
+  <identificador>7954</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:43 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37110/1200x1600_v1_tenampa.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Tenampa</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 351 704</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Cafetería y salón de té.<br/><br/><ul><li>Admite animales en el establecimiento siempre que no causen molestias.<br/></li></ul></descripcion>
+  <direccion>Calle Pedro Duro, 16. 33206. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.54111 -5.666448</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Pedro Duro, 16. 33206. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7947-cafe-samara" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/7947-cafe-samara</url>
+  <identificador>7947</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:43 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37109/320x240_v1_samara.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Samara</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 990 165</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><ul><li>No permite la entrada de animales en el establecimiento.<br/></li></ul></descripcion>
+  <direccion>Calle de la Peña Santa de Enol, 5. 33211. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.52683 -5.679548</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle de la Peña Santa de Enol, 5. 33211. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7940-cafe-plaza" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/7940-cafe-plaza</url>
+  <identificador>7940</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-02-26 14:38:22 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37107/298x298_v1_plaza.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Plaza</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 984 490 222</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://www.cafeplazagijon.com/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Cafetería situada en el centro de la ciudad. Ofrece desayunos y comida tradicional.<br/></div><br/><ul><li>No permite la entrada de animales al establecimiento.<br/></li></ul></descripcion>
+  <direccion>Calle Cura Sama, 6. 33202. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.540127 -5.657468</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Cura Sama, 6. 33202. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7933-cafe-mayerling" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/7933-cafe-mayerling</url>
+  <identificador>7933</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2016-04-14 10:29:14 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37093/298x298_v1_mayerling.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Mayerling</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 358 763</telefono>
+  <fax/>
+  <correo-electronico>info@cafemayerling.es</correo-electronico>
+  <web>http://www.cafemayerling.es/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Café Bar Restaurante musical. Ofrecen desayunos, menú del día y platos combinados.<br/></div><br/><ul><li>Admite la entrada de animales al establecimiento mientras vayan atados y no causen molestias.<br/></li></ul></descripcion>
+  <direccion>Calle Corrida 14. 33206. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.540994 -5.663906</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Corrida 14. 33206. Gijón.</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7920-cafe-gaudi" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/7920-cafe-gaudi</url>
+  <identificador>7920</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:42 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37092/220x176_v1_cafe.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Gaudí</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 147 361</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Moderna cafetería y familiar.<br/><br/><ul><li>No permite la entrada de animales al establecimiento.<br/></li></ul></descripcion>
+  <direccion>Calle Juan Alvargonzález 35. 33208. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.53054 -5.66956</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Juan Alvargonzález 35. 33208. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7913-cafe-el-alquimista" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/7913-cafe-el-alquimista</url>
+  <identificador>7913</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:41 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37078/130x130_v1_alquimista.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café El Alquimista</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 984 190 494</telefono>
+  <fax/>
+  <correo-electronico>alquimista@alquimistagijon.com</correo-electronico>
+  <web>http://es-es.facebook.com/elalquimistagijon?sk=wall</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;"><strong style="font-weight: normal;">El Alquimista</strong> es un establecimiento moderno abierto a
+ todo tipo de público. Localizado en la zona del Llano de Gijón y con un
+ amplio horario de apertura, desde las 8:00 de la mañana hasta la 
+madrugada, todos los días del año.<br/><br/></div><p style="text-align: justify;">Podrás disfrutar de 
+desayunos, meriendas y aperitivos, una amplia carta de tés y cafés. 
+Contamos con una atractiva bodega de vinos, una selección de las mejores
+ cervezas de importación y los más suculentos cócteles, no te quedes sin
+ probar nuestro especial de la casa <em>“Alquimista”, Paraíso Natural o Leche de Pantera...</em></p><p style="text-align: justify;">En<span style="font-weight: bold;"> </span><strong style="font-weight: normal;">Café-bar El Alquimista </strong>encontrarás el mejor ambiente. Ofrecemos un trato cercano a nuestros 
+clientes, quienes se sienten como en su propia casa, con un servicio 
+estupendo. ¿A qué esperas para conocernos? Cualquier momento es bueno.</p><ul><li>No permite la entrada de animales al establecimiento.<br/></li></ul></descripcion>
+  <direccion>Plaza de la Serena 4 - bajo dcha. 33208. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.532446 -5.668465</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Plaza de la Serena 4 - bajo dcha. 33208. Gijón.</direccion>
+  <categorias>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7912-cafe-central" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/7912-cafe-central</url>
+  <identificador>7912</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2016-01-20 15:43:51 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37074/115x71_v1_central.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Central</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 358 717 / +34 985 346 119</telefono>
+  <fax/>
+  <correo-electronico>cafecentralgijon@gmail.com</correo-electronico>
+  <web></web>
+  <horario>Lunes a jueves: 08:00 - 00:00; Viernes y sábado: 08:00 - 02:30</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Café
+ clásico con situación privilegiada, en pleno eje comercial. Sobresale 
+su exquisita decoración. Gran variedad en desayunos y menús.<br/><br/></div><ul><li>No permite la entrada de animales al establecimiento.</li></ul><p><span style="font-weight: bold;">Día de descanso:</span> Domingos<br/></p></descripcion>
+  <direccion>Calle Pelayo 6. 33205. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.53874 -5.662994</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Pelayo 6. 33205. Gijón.</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7911-cafe-vinateria-picasso" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/7911-cafe-vinateria-picasso</url>
+  <identificador>7911</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:05:41 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/39367/180x137_v1_vinateriapicasso.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café-Vinatería Picasso</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 49 03 32</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://es-es.facebook.com/people/Cafe-Vinateria-Picasso-Gij%C3%B3n/100002633327478</web>
+  <horario>De 12:00 a 15:00 y de 19:30 a 22:30</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;"><br/></div></descripcion>
+  <direccion>Calle Roncal, 8- 33208 Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.529879 -5.66824</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Boal de Javi - Calle Roncal, 8- 33208 Gijón</direccion>
+  <categorias>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7865-cafeteria-snack-bar-bergantin" tipo="Restaurantes y sidrerías,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/7865-cafeteria-snack-bar-bergantin</url>
+  <identificador>7865</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2017-06-26 14:28:53 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f8/81565/600x400_v1_Cafeteriatryp.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cafetería Snack-bar Bergantín</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 199 800</telefono>
+  <fax/>
+  <correo-electronico>tryp.rey.pelayo.@solmelia.com</correo-electronico>
+  <web>http://es.solmelia.com/hoteles/espana/gijon/tryp-gijon-rey-pelayo-hotel/home.htm</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Situado en la zona de El Bibio, en este acogedor restaurante podrá 
+degustar de los platos preparados por el Chef Benjamín Caballero. Con 
+capacidad para 45 personas, está decorado con motivos marineros, de 
+entre los que destaca cuatro maquetas de barcos y los tonos azules de 
+todo el local. Este acogedor restaurante evoca la mar.<br/></div><br/><ul><li>No admite animales.<br/></li></ul></descripcion>
+  <direccion>Avenida de Torcuato Fernández Miranda, 26. 33203. Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.535857 -5.642544</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avenida de Torcuato Fernández Miranda, 26. 33203. Gijón</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7858-as-de-picas" tipo="Restaurantes y sidrerías,Bares y cafés,Casino,Turismo">
+  <url>http://www.gijon.es/directorios/show/7858-as-de-picas</url>
+  <identificador>7858</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2017-07-24 11:12:39 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f9/97167/190x110_v1_asdepicas.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">As de Picas</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 343 434</telefono>
+  <fax/>
+  <correo-electronico>hosteleria@casino-asturias.com</correo-electronico>
+  <web>http://www.asdepicasrestaurante.com</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Inaugurado el 22 de febrero de 2006, el Restaurante As de Picas se 
+encuentra situado en el centro de Gijón y ubicado en las instalaciones 
+del Casino de Asturias, con entrada independiente al mismo.<br/></div><br/><div style="text-align: justify;">Su 
+exquisita decoración y su atmósfera tranquila lo convierten en el lugar 
+ideal para celebraciones, comidas de trabajo o reuniones familiares.<br/></div> <br/><div style="text-align: justify;"><div style="text-align: justify;">La
+ cocina del Restaurante se caracteriza por el esmero en la creación de 
+nuevas recetas, siempre conservando el gusto por lo tradicional.<br/><br/>Contacto: Mariluz Mariño<br/></div><br/><h4><span style="font-weight: bold;">Descuento del 10% con la tarejta turística Gijón Card</span></h4></div></descripcion>
+  <direccion>Calle Fernandez Vallín (Esquina Padilla) 33205. Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539636 -5.662543</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Fernandez Vallín (Esquina Padilla) 33205. Gijón</direccion>
+  <categorias>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="1227" rdfa-property="http://purl.org/dc/terms/subject">Gijón card. Tarjeta turística</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2741" rdfa-property="http://purl.org/dc/terms/subject">Gijón Card</categoria>
+    <categoria id="597" rdfa-property="http://purl.org/dc/terms/subject">Congresos</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="939" rdfa-property="http://purl.org/dc/terms/subject">Casino</categoria>
+    <categoria id="2898" rdfa-property="http://purl.org/dc/terms/subject">Club de Empresas de Turismo de Negocios</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/7227-sala-acapulco" tipo="Casino,Pubs,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/7227-sala-acapulco</url>
+  <identificador>7227</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-07-23 11:00:07 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/35940/395x250_v1_sala.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Sala Acapulco</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 343 434</telefono>
+  <fax/>
+  <correo-electronico>diviertete@casino-asturias.com</correo-electronico>
+  <web>http://casino-asturias.com/</web>
+  <horario>Jueves de 20:00 a 01:00 h.<br/>Sábados de 00:30 a 07:00 h.<br/>Domingos de 07:00 h. a cierre.<br/>Viernes: Según programación.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">El Casino de Asturias alberga una sala polivalente para cualquier tipo 
+de acto desde conferencias, convenciones o reuniones de trabajo, hasta 
+banquetes y celebraciones. Dispone de programación mensual de conciertos
+ y actividades y de una variada carta de cócteles.<br/><br/></div></descripcion>
+  <direccion>Calle Fernández vallín (esquina Padilla)</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539675 -5.66264</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Calle Fernández vallín (esquina Padilla)</direccion>
+  <categorias>
+    <categoria id="939" rdfa-property="http://purl.org/dc/terms/subject">Casino</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2580" rdfa-property="http://purl.org/dc/terms/subject">Música directo</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6342-bay-pass-bar" tipo="Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/6342-bay-pass-bar</url>
+  <identificador>6342</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:04:50 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37412/280x158_v1_baypass.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Bay Pass Bar</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 17 00 10</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Moderno bar de copas situado en la zona de ruta de los vinos de Gijón.<br/><br/><ul><li>No se permite la entrada de mascotas en el establecimiento.<br/></li></ul></descripcion>
+  <direccion>Cervantes, 8. 33206. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.542537 -5.665609</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Cervantes, 8. 33206. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2528" rdfa-property="http://purl.org/dc/terms/subject">Gijón de cócteles</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6328-lautrec" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/6328-lautrec</url>
+  <identificador>6328</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:04:49 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37458/560x373_v1_lautrec.jpeg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Lautrec</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 353 502</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://www.lautrecgijon.es/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">LAUTREC te ofrece el mejor ambiente a cualquier hora del día, siempre con un excelente servicio. Porque somos un local de referencia que cuenta con una clientela consolidada, con distintos ambientes, aptos para todo tipo de público, pero con la esencia que nos caracteriza: servicio y ocio garantizado, calidad y precios. <br/><br/>En CAFÉ-PUB LAUTREC abrimos nuestras puertas desde por la mañana para ofrecerte los desayunos más ricos y completos de la zona. A media mañana también puedes pasarte a tomar nuestros aperitivos, canapés y bocatas. Por la tarde anímate a degustar un buen café, como recién molido, con toda su esencia... tómate unas cañas o ricas cervezas de nuestra selecta carta en uno de los ambientes más agradables de Gijón.<br/></div><br/><div style="text-align: justify;">CAFÉ-PUB LAUTREC es un local moderno con un servicio de calidad. Con una minuciosa decoración te sentirás envuelto en un entorno sofisticado a la par que moderno, un ambiente vivo. Las paredes están adornadas con numerosas reproducciones de pinturas y carteles de Henri de Toulouse-Lautrec, entre la piedra y la madera que distingue nuestro espacio. Todo tipo de clientes tiene cabida en este local, somos un punto de referencia de la zona Náutico, zona de copas más cercana a la playa de San Lorenzo.<br/></div><br/>Diviértete en un buen ambiente, disfruta de una inmejorable copa y buena música.</descripcion>
+  <direccion>Capua, 5. 33202. Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.541563 -5.658455</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Capua, 5. 33202. Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2528" rdfa-property="http://purl.org/dc/terms/subject">Gijón de cócteles</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6314-vorbier-bar" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/6314-vorbier-bar</url>
+  <identificador>6314</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:04:49 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37527/180x131_v1_vorbier.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Vorbier&amp;amp;Bar</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 984 29 08 82</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://www.cerveceriavor.es/2.html</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">En nuestra cervecería podras degustar más de 60 tipos de cervezas procedentes de diferentes lugares del mundo. Tanto si prefieres botella o caña, podras elegir la que más te guste y sorprenderte con los deliciosos brebajes que trabajamos y acompañarlas con alguna de nuestras Pizzas caseras o las hamburgesas Gourmet de carne de Buey, que nosotros mismos elaboramos.<br/></div><br/><div style="text-align: justify;">Además, poseemos varios tipos de cocktail's y gin tonics para acabar las noches con un toque diferente.<br/></div></descripcion>
+  <direccion>Prendes Pando, 29. 33208. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.537117 -5.666008</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Prendes Pando, 29. 33208. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2528" rdfa-property="http://purl.org/dc/terms/subject">Gijón de cócteles</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6300-garamont" tipo="Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/6300-garamont</url>
+  <identificador>6300</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:04:49 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37160/600x401_v1_cachopo.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Garamont</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 168 776</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Covadonga, 5. 33201. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.539248 -5.659292</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Covadonga, 5. 33201. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2528" rdfa-property="http://purl.org/dc/terms/subject">Gijón de cócteles</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2743" rdfa-property="http://purl.org/dc/terms/subject">Gijón de Pinchos</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6293-la-habana-pub" tipo="Pubs,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/6293-la-habana-pub</url>
+  <identificador>6293</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-07-23 10:57:21 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37435/298x298_v1_lahabanna.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">La Habana Pub</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+ 34 985 34 32 55</telefono>
+  <fax/>
+  <correo-electronico>habana@zapatarranca.com</correo-electronico>
+  <web>http://www.publahabana.com</web>
+  <horario>De domingo a jueves de 22:00 a 03:30 h.<br/>Viernes y sábado de 22:00 a 05:30 h</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><p>Quince años en Gijón creando ambiente.</p><p>En la Cafetería Habana, situada en el muelle deportivo, podréis vivir las mejores noches con la música más actual y disfrutar de maravillosas tardes con un café frente al sol de Poniente.</p></descripcion>
+  <direccion>Claudio Alvargonzález, 22</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.546871 -5.665703</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Claudio Alvargonzález, 22</direccion>
+  <categorias>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2528" rdfa-property="http://purl.org/dc/terms/subject">Gijón de cócteles</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6278-ambigu" tipo="Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/6278-ambigu</url>
+  <identificador>6278</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2016-06-06 14:43:03 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37403/180x179_v1_ambigu.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Ambigú</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 36 73 77</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://ambigu-gijon.com/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Los sabores de nuestra cocina tienen su origen en “la cocina tradicional italiana”, sin embargo, poco a poco, nos gusta innovar e introducir nuevos platos, para que nuestros clientes degusten otros sabores diferentes, que siempre bajo nuestro criterio son mejores.<br/></div><br/><div style="text-align: justify;">Gepetto tenía un pequeño taller de carpintería, donde sus delicadas manos trabajaban con cariño y esmero la madera, para poder elaborar las piezas más perfectas posibles, pero siempre de manera artesanal. Igualmente, nuestra pequeña cocina elabora platos caseros, con los mejores ingredientes y una combinación de sabores y aromas capaces de satisfacer, por su variedad, a prácticamente todos los paladares.<br/></div><br/><div style="text-align: justify;">Nuestro principal objetivo es la satisfacción del cliente, por lo que nos gusta escuchar sus sugerencias, que finalmente nos ayudan a mejorar la calidad final de nuestra carta. El toque final de nuestros platos es muy importante, porque pensamos que también se come con la vista; quizá todos los sentidos participan en alguna medida.<br/></div><br/><div style="text-align: justify;">Procuramos que nuestros clientes se sientan tan a gusto en nuestro restaurante, que realmente lleguen a sentirse como en casa. La casa de nuestro abuelo Gepetto.<br/><br/><ul><li>No permite la entrada de mascotas en el establecimiento.</li></ul><h4 style="font-weight: bold;">Descuendo del 10% con la tarjeta turística Gijón Card</h4></div></descripcion>
+  <direccion>Avda. José García Bernardo, 256. 33203. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.543142 -5.645624</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Avda. José García Bernardo, 256. 33203. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2528" rdfa-property="http://purl.org/dc/terms/subject">Gijón de cócteles</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="1227" rdfa-property="http://purl.org/dc/terms/subject">Gijón card. Tarjeta turística</categoria>
+    <categoria id="2741" rdfa-property="http://purl.org/dc/terms/subject">Gijón Card</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6257-cafeteria-vivaldi" tipo="Bares y cafés,Restaurantes y sidrerías,Turismo">
+  <url>http://www.gijon.es/directorios/show/6257-cafeteria-vivaldi</url>
+  <identificador>6257</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-07-23 10:43:56 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37414/180x180_v1_vivaldis.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Cafetería Vivaldi</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 09 04 93</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://www.cafeteriavivaldi.com/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">En 1678 nació en Venecia el Compositor y Violinista Antonio Vivaldi, del cual Igor Stravinski comentó en una ocasión que Vivaldi no había escrito nunca quinientos conciertos, sino «quinientas veces el mismo concierto». No deja de ser cierto en lo que concierne al original e inconfundible tono que el compositor veneciano supo imprimir a su música y que la hace rápidamente reconocible. Autor prolífico, la producción de Vivaldi abarca no sólo el género concertante, sino también abundante música de cámara, vocal y operística. Célebre sobre todo por sus cuatro conciertos para violín y orquesta reunidos bajo el título Las cuatro estaciones, cuya fama ha eclipsado otras de sus obras igualmente valiosas, si no más, Vivaldi es por derecho propio uno de los más grandes compositores del período barroco e impulsor de la llamada Escuela Veneciana. Con el propósito de trasladar estos valores a la hostelería, en 2006 inauguramos Cafetería Vivaldi, para ofrecer nuestro servicio en una zona de reciente creación en Gijón, Montevil (Ver mapa y contacto).<br/></div><br/><div style="text-align: justify;">Un lugar acogedor, diseñado con amplias cristaleras, decorado en madera y tonos cálidos con suave iluminación y terraza cubierta, para que Ud. se sienta cómodo, disfrutando de su tiempo.Ponemos a su disposición nuestra “prolífica” y especializada composición, de la cual puede ver un adelanto en esta web, con gran variedad de pinchos de elaboración propia, platos combinados, extensa selección de chocolates calientes y fríos, amplia colección de reconfortantes infusiones y tés naturales, batidos, combinados de café, las mejores ginebras y vodkas de importación y un amplio etcétera.<br/></div><br/><div style="text-align: justify;">En nuestras partituras se repite siempre, pese a lo que pueda decir Stravinski, la misma nota, la calidad del producto. Porque Usted, no se merece menos.<br/></div><ul><br/><li>No permite la entrada de animales al establecimiento.</li></ul><h4 style="font-weight: bold;">Descuento del 10% en compras superiores a 20€ con la tarjeta turística Gijón Card<br/></h4></descripcion>
+  <direccion>Les Cigarreres, 29. 33211. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.520625 -5.678427</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Les Cigarreres, 29. 33211. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2528" rdfa-property="http://purl.org/dc/terms/subject">Gijón de cócteles</categoria>
+    <categoria id="1227" rdfa-property="http://purl.org/dc/terms/subject">Gijón card. Tarjeta turística</categoria>
+    <categoria id="2741" rdfa-property="http://purl.org/dc/terms/subject">Gijón Card</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6250-marques-10" tipo="Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/6250-marques-10</url>
+  <identificador>6250</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:04:48 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37461/200x131_v1_marques10.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Marqués 10</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 34 03 27</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://es-es.facebook.com/pages/Marques-10/9138703748?sk=wall</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Plaza del Marqués, 10. 33207. Gijón</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.544966 -5.663321</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Plaza del Marqués, 10. 33207. Gijón</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2528" rdfa-property="http://purl.org/dc/terms/subject">Gijón de cócteles</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6244-v-o-s" tipo="Pubs,Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/6244-v-o-s</url>
+  <identificador>6244</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2015-07-23 11:02:42 +0200</send>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">V.O.S.</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">984 19 88 35</telefono>
+  <fax/>
+  <correo-electronico>vos@vosgijon.com</correo-electronico>
+  <web>http://www.vosgijon.com/</web>
+  <horario>De 20:00 h. a cierre.<br/>Cerrado: lunes.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>Marqués de San Esteban, 13</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.542925 -5.665783</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Marqués de San Esteban, 13</direccion>
+  <categorias>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2528" rdfa-property="http://purl.org/dc/terms/subject">Gijón de cócteles</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6223-bar-inn" tipo="Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/6223-bar-inn</url>
+  <identificador>6223</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:04:47 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37408/800x622_v1_barinn.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Bar Inn</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 39 43 64</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web>http://barinngijon.com/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Punto de encuentro escogido por una multitud de clientes para la primera copa de la noche, este bar de copas se encuentra en la agitada plaza del Marqués. Ofrecen una amplia carta de cervezas y copas de todos los tipos. Destaca por una cuidada selección musical que abarca desde los temas más actuales del pop-rock internacional hasta la música española más escuchada. Cuenta con terraza de verano y retransmiten eventos deportivos.<br/><br/><ul><li>Permite mascotas en la zona de terraza.<br/></li></ul></div></descripcion>
+  <direccion>Plaza del Marqués. 33201. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.545196 -5.663138</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Plaza del Marqués. 33201. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2528" rdfa-property="http://purl.org/dc/terms/subject">Gijón de cócteles</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/6202-cafe-royal" tipo="Bares y cafés,Turismo">
+  <url>http://www.gijon.es/directorios/show/6202-cafe-royal</url>
+  <identificador>6202</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:04:46 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f3/37413/1592x1140_v1_royal.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Royal</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 35 29 73</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description">Cafetería que ofrece menú del día, platos combinados y raciones.</descripcion>
+  <direccion>Lastres, 6. 33207. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.534921 -5.670713</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Lastres, 6. 33207. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2528" rdfa-property="http://purl.org/dc/terms/subject">Gijón de cócteles</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/3456-picaro" tipo="Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/3456-picaro</url>
+  <identificador>3456</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-01-22 12:03:20 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f2/29753/169x133_v1_picaro.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Pícaro</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 170 671</telefono>
+  <fax>984 199 561</fax>
+  <correo-electronico>picaro@grupogavia.com</correo-electronico>
+  <web>http://www.grupogavia.com/</web>
+  <horario>De 24:00 a 05:30 h.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Divertido local en la zona de Fomento, donde siempre encontrarás un ambiente en el que te encuentrés cómodo. Su música y su ambiente lo han convertido sin duda en parada obligada en la noche de Gijón.</div> <br/><br/>
+<h3>Día de descanso:</h3>
+<ul>
+<li>En temporada de invierno: De lunes a miércoles.
+</li><li>En temporada de verano: abierto todos los días.</li></ul>
+<h3>Distintivos de calidad:</h3>SICTED.<br/><br/><ul><li>No admite animales.<br/></li></ul></descripcion>
+  <direccion>Marqués de San Esteban, 12 - 33206. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.543179 -5.665703</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Picaro - Marqués de San Esteban, 12 - 33206. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/3455-cafe-bar-bambara" tipo="Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/3455-cafe-bar-bambara</url>
+  <identificador>3455</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2017-07-24 12:08:20 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f9/97185/190x110_v1_bambara.png</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Bar Bambara</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 347 887</telefono>
+  <fax>+ 34 984 199 561</fax>
+  <correo-electronico>bambara@grupogavia.com</correo-electronico>
+  <web>http://www.bambara-gijon.com</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Clásico local en la hostelería de Gijón que combina el ambiente diurno de uno de los mejores cafés con la movida nocturna de la Zona Fomento.<br/></div><br/><br/>
+<h3>Certificados de calidad:</h3>SICTED.<br/><br/>
+<h3>Persona de contacto:</h3>D. Fernando Castaño.</descripcion>
+  <direccion>Marqués de San Esteban, 9 - bajo</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.543054 -5.66574</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Marqués de San Esteban, 9 - bajo</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="2528" rdfa-property="http://purl.org/dc/terms/subject">Gijón de cócteles</categoria>
+    <categoria id="2741" rdfa-property="http://purl.org/dc/terms/subject">Gijón Card</categoria>
+    <categoria id="1227" rdfa-property="http://purl.org/dc/terms/subject">Gijón card. Tarjeta turística</categoria>
+    <categoria id="2580" rdfa-property="http://purl.org/dc/terms/subject">Música directo</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="2898" rdfa-property="http://purl.org/dc/terms/subject">Club de Empresas de Turismo de Negocios</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/3454-bulevar" tipo="Bares y cafés,Pubs,Turismo">
+  <url>http://www.gijon.es/directorios/show/3454-bulevar</url>
+  <identificador>3454</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-09-01 13:41:12 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f2/29751/169x133_v1_bulevar.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Bulevar</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">+34 985 342 031</telefono>
+  <fax>+ 34 984 199 561</fax>
+  <correo-electronico>bulevar@grupogavia.com</correo-electronico>
+  <web>http://www.grupogavia.com/</web>
+  <horario/>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><div style="text-align: justify;">Un clásico en las noches de Gijón, <span style="FONT-WEIGHT: bold">con 16 años de historia</span>. La mejor música, el mejor ambiente y las mejores fiestas nos han hecho ser un referente de la movida Gijonesa.</div><br/><span style="font-weight: bold;">Zona:</span>Puerto deportivo. <br/><br/>
+<h3>Certificados de calidad:</h3>SICTED.<br/><br/>
+<h3>Persona de contacto:</h3>D. Fernando Castaño.<br/><br/><ul><li>No permite la entrada de animales al establecimiento.<br/></li></ul><br/><h4><span style="font-weight: bold;">Descuento del 15% con la tarjeta turística Gijón Card</span></h4></descripcion>
+  <direccion>Claudio Alvargonzález, 8. 33201. Gijón.</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.546041 -5.664668</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">Claudio Alvargonzález, 8. 33201. Gijón.</direccion>
+  <categorias>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="13" rdfa-property="http://purl.org/dc/terms/subject">2011</categoria>
+    <categoria id="2741" rdfa-property="http://purl.org/dc/terms/subject">Gijón Card</categoria>
+    <categoria id="2531" rdfa-property="http://purl.org/dc/terms/subject">Pubs</categoria>
+    <categoria id="1227" rdfa-property="http://purl.org/dc/terms/subject">Gijón card. Tarjeta turística</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/358-cafe-gijon-ii" tipo="Sala de Exposiciones,Bares y cafés,Cultura y Ocio,Turismo">
+  <url>http://www.gijon.es/directorios/show/358-cafe-gijon-ii</url>
+  <identificador>358</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2014-09-01 13:46:01 +0200</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f6/6374/250x158_v1_Directoriosalasdeexposicionescafegijon.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Café Gijón II</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 346 796</telefono>
+  <fax/>
+  <correo-electronico></correo-electronico>
+  <web></web>
+  <horario>De 9.00 a 14.00 y de 17.00 a 22.00, de lunes a viernes.<br/>Sábados de 10.00 a 14.00 h.<br/>Desde las 9 de la mañana hasta el cierre, 2 o 3 de la mañana.<br/>Las exposiciones son quincenales.</horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"/>
+  <direccion>C/Marqués de San Esteban, 40</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.542393 -5.667631</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/Marqués de San Esteban, 40</direccion>
+  <categorias>
+    <categoria id="201" rdfa-property="http://purl.org/dc/terms/subject">Sala de Exposiciones</categoria>
+    <categoria id="12" rdfa-property="http://purl.org/dc/terms/subject">2010</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="165" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+  </categorias>
+</directorio>
+<directorio rdfa-id="http://www.gijon.es/directorios/show/357-taberna-cafe-gijon" tipo="Sala de Exposiciones,Bares y cafés,Restaurantes y sidrerías,Cultura y Ocio,Turismo">
+  <url>http://www.gijon.es/directorios/show/357-taberna-cafe-gijon</url>
+  <identificador>357</identificador>
+  <locale>es</locale>
+  <send>fecha-actualizacion2016-01-15 10:41:46 +0100</send>
+  <foto rdfa-property="http://purl.org/dc/terms/relation">http://www.gijon.es/data/images/f0/f8/81507/800x500_v1_tabernacafeGijon.jpg</foto>
+  <nombre rdfa-property="http://www.geonames.org/ontology#name">Taberna Café Gijón</nombre>
+  <telefono rdfa-property="http://www.w3.org/2002/12/cal#tel">985 346 796</telefono>
+  <fax/>
+  <correo-electronico>info@tabenacafegijon.com</correo-electronico>
+  <web>www.tabernacafegijon.com</web>
+  <horario><p>Todos
+los días: de 10:00 h a cierre.  Horario cocina de: De lunes a jueves: de
+13:00 a 16:00 y 20:30 a 23:30 h. Viernes y sábado: de 13:00 a 16:00
+h. y de 20.30 a
+24:00 h. Domingo: de 13:00 a 16:00 y de 20:30 a 23:30 h. Miércoles:
+descanso.</p></horario>
+  <descripcion rdfa-property="http://purl.org/dc/terms/description"><p>El Café Gijón se encuentra situado junto a la playa de Poniente, frente al Puerto Deportivo, y evoca el recuerdo de la tertulia de los cafés de antaño.</p><p>Especialidad en pinchos, desayunos, tapas variadas, amplia carta de cafés especiales (carajillos, mini-irlandés, vienés,...), coctelería variada (mojitos, caipiriña...).<br/>Sala de exposición permanente, donde cada quince días la obra de un artista cuelga de nuestras paredes.</p><p>Terraza de verano.</p></descripcion>
+  <direccion>C/Rodríguez San Pedro, 33 (también entrada por C/ Marqués de San Esteban, 40)</direccion>
+  <localizacion rdfa-property="http://www.w3.org/2002/12/cal#location">43.542097 -5.668741</localizacion>
+  <direccion rdfa-property="http://www.w3.org/2002/12/cal#street-address">C/Rodríguez San Pedro, 33 (también entrada por C/ Marqués de San Esteban, 40)</direccion>
+  <categorias>
+    <categoria id="201" rdfa-property="http://purl.org/dc/terms/subject">Sala de Exposiciones</categoria>
+    <categoria id="44" rdfa-property="http://purl.org/dc/terms/subject">Gijón</categoria>
+    <categoria id="165" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+    <categoria id="921" rdfa-property="http://purl.org/dc/terms/subject">Bares y cafés</categoria>
+    <categoria id="2897" rdfa-property="http://purl.org/dc/terms/subject">Gijón con Calidad</categoria>
+    <categoria id="920" rdfa-property="http://purl.org/dc/terms/subject">Restaurantes y sidrerías</categoria>
+    <categoria id="968" rdfa-property="http://purl.org/dc/terms/subject">Guia gastronómica</categoria>
+    <categoria id="185" rdfa-property="http://purl.org/dc/terms/subject">Cultura y Ocio</categoria>
+    <categoria id="199" rdfa-property="http://purl.org/dc/terms/subject">Turismo</categoria>
+  </categorias>
+</directorio>
+</directorios>

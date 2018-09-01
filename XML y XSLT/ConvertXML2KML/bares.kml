@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>bares.kml</name>
+<description>Documento kml que contiene los bares de Gijón</description>
+<visibility>1</visibility>
+<open>1</open>
+<Style id = "estilo">
+<LabelStyle>
+<color> 0971b2 </color>
+</LabelStyle>
+</Style>
+<Style id = "highlightPlacemark">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id = "normalPlacemark">
+<IconStyle>
+<Icon>
+<href>icono_normal.png</href>
+</Icon>
+</IconStyle>
+ </Style>
+<StyleMap id = "exampleStyleMap">
+<Pair>
+<key>normal</key>
+<styleUrl>#normalPlacemark</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#highlightPlacemark</styleUrl>
+</Pair>
+</StyleMap>
+
+<Placemark>
+<name>Hat Trick Molinón</name>
+<description>Situado en los bajos del emblemático estadio de El Molinón, el restaurante Hat Trick ofrece cocina elaborado con los productos más frescos del Cantábrico.EspecialidadesArroz meloso con cigalitas y zamburiñas.Cazuela de chipirones con almejas.Carrilleras de ibérico a la sidra.   </description>
+<address>Estadio de El Molinón, Grada Sur</address>
+<phoneNumber>+34 984 060 958 - Reservas: +34 984 240 647</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.637225,43.535724,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Carling Goal</name>
+<description>Carling Goal se ha convertido en uno de los locales de referencia en Gijón, por su excelente ubicación, en la Puerta 14 del estadio El Molinón, por los eventos que realiza a lo largo del año (Quedadas Moteras, Jornadas Gastronómicas Mexicanas, Japonesas, Veladas de Boxeo), por ser punto de encuentro de la afición del Sporting de Gijón y por la calidad de sus productos.Cuenta con un amplio aparcamiento frente a sus instalaciones, está muy cerca del Recinto Ferial Luis Adaro, el Parque de &quot;Isabel La Católica&quot;, a 100 metros de la playa de San Lorenzo y muy cercano a una amplia oferta hotelera.Contacto: Jana Suárez</description>
+<address>Estadio El Molinón, Puerta 14</address>
+<phoneNumber>+34 654 521 519</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.637425,43.536174,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Paparazzi Playa</name>
+<description>En Gijón, entre el puerto deportivo y la Playa de Poniente, una alternativa diferente de ocio asturiano.Fusión entre Gastronomía, de la mano de Alejandro Urrutia, coctelería y música, disfrutando de su terrada de 400 m con las mejores vistas de Gijón.Salones privados para grupos reducidos y salones para eventos.Precio desde 14 €Cocina cerrada Domingos noche.</description>
+<address>Edificio Talasoponiente – Planta 3Playa de Poniente – Dique Este – 33206 Gijón</address>
+<phoneNumber>984084445 – 691762054</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.669031,43.544243,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ocean</name>
+<description>Ubicada en la zona del puerto, esta terraza ofrece numerosas copas 
+premium y cócteles. Además, dispone de una pequeña carta donde podemos 
+encontrar sushi, preparación de wok, sandwiches y hamburguesas.
+Dispone además de menú de cenas con barra libre de mojitos.Descuento del 15% con la tarjeta turística Gijón Card </description>
+<address>Calle de Rodríguez San Pedro, Gijón</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.666934,43.543886,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bömarzo</name>
+<description>Cafetería y restaurante, servimos desayunos y comidas, con menú del día todos los días de la semana a 15 €, menos domingos y festivos a 18 €. Tenemos platos como: arroz meloso con langostinos, manzana rellena de marisco en salsa de oricios, carrileras de buey al vino tinto, ensaladas,...Un ambiente muy acogedor y hogareño.</description>
+<address>Dionisio de la Huerta 103, 33203 (La Guía)</address>
+<phoneNumber>984 195 503</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.632167,43.531612,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Bar La Tertulia</name>
+<address>C/ Emilio Tuya, 34</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.649515,43.539228,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cervecería IPA</name>
+<description>Cuando 
+nació IPA La cervecería del Millón de Ibus teníamos claro que la IPA 
+(India Pale Ale), con su característico amargor, iba a tener un gran protagonismo. Durante 
+muchos años, la reina de las cervezas que se comercializaban en Asturies era la Belga, mientras que en los 
+últimos tiempos algunos cerveceros han apostado por ofrecer a sus clientes 
+nuevos sabores y cervezas de mucha mayor complejidad y sabor. Nosotros todo lo 
+que sabemos, tenemos que empezar agradeciéndoselo a la desaparecida 
+cervecería Malthaser (finales de la década de 1990), pero sobre 
+todo al gran conocimiento y experiencia de nuestro amigo Andrés Torre, que tiene la que para 
+nosotros es sin lugar a dudas la mejor cervecería de Asturies, “El Lúpulo 
+Feroz”. De su mano hemos aprendido y disfrutado de auténticas joyas y sin 
+él hubiese sido imposible esta carta y sobre todo este proyecto. Hemos abierto 
+en Xixón por fin para que la Y de los IBUS fuese posible, ahora ya hay tres cervecerías 
+en las que los amantes de lo amargo, del sabor y de la calidad podrán disfrutar 
+en las tres ciudades: El Cabanónen Avilés, lEl Lúpulo Feroz en Uvieu e IPAen Xixón.</description>
+<address>Marqués de Casa Valdés, 14 bajo</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.651752,43.540328,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Amalia</name>
+<description>Ambiente agradable y espacio abierto a la cultura. Ven a disfrutar de un buen pincheo, a degustar buenos vinos y embutidos de Güijuelo. Además podrás empaparte de buen arte, gracias a la colaboración de distintos artistas que de forma habitual expondrán en nuestro local. ¡¡UNA COMBINACIÓN PERFECTA!!!Más información en su Facebook.</description>
+<address>Calle 
+Campona 8 33211</address>
+<phoneNumber>984 39 58 21</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.680125,43.529168,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café del Coto</name>
+<address>Plaza de la República s/n (CMI El Coto) - 33204 Gijón</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.649668,43.533414,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pub Restaurante Geographic</name>
+<address>Plaza Villamanín (Somió) - 33203 Gijón</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.621098,43.53434,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bodega La Parrala</name>
+<address>Avda. del Mar Cantábrico, 10 - 33204 Gijón</address>
+<phoneNumber>984 39 35 19</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.653563,43.523527,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>La General Compañía del Norte</name>
+<address>Salustio regueral, 5 - 33206 Gijón</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.664657,43.542942,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cervecería La Vieja Escuela</name>
+<address>Avda. de Roces, 950 - 33211 Gijón</address>
+<phoneNumber>984 39 83 47</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.682391,43.520311,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bodega Jayla</name>
+<address>Decano Prendes Pando, 10 - 33207 Gijón</address>
+<phoneNumber>985 34 33 75</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.666266,43.537,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zero Bar</name>
+<description>Bar de apertura diaria, desde las 12 del mediodia. Manteniendo un buen 
+ambiente todas las tardes de la semana y las noches del jueves, viernes y
+ sábado. Música moderna y muy bailable. Actuaciones y eventos de todo 
+tipo (fiestas, despedidas, cumpleaños, actos culturales, etc.) a lo largo de 
+todo el año.</description>
+<address>Avda. Pablo Iglesias, 84 - 33204 Gijón</address>
+<phoneNumber>984 19 20 33</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.648853,43.535242,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>El Cafetín de Luci</name>
+<address>Cigarreres, 23 - 33211 Gijón</address>
+<phoneNumber>984 49 17 47</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.677885,43.52047,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Babel Cocktail Bar</name>
+<address>Libertad, 2 - 33206 Gijón</address>
+<phoneNumber>985 31 93 32 / 696 15 20 59</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.664721,43.541653,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Double Coffees &amp; Cocktails</name>
+<address>Pintor Manuel Medina, 29-31 - 33210
+Gijón </address>
+<phoneNumber>984 39 37 22 / 985 39 28 09</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.668551,43.521256,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café-Restaurante El Tostadero</name>
+<address>
+Avda. José García Bernardo, 66 - 33203 Gijón</address>
+<phoneNumber>985 33 32 78</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.644572,43.541748,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cafetería La Caracola</name>
+<address>Jacobo Olañeta, 2 - 33202 Gijón</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.660349,43.541956,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café 180 Grados</name>
+<address>Avda. gaspar García Laviana, 75 - 33209 Gijón</address>
+<phoneNumber>985 31 93 32</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.664903,43.525682,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ca Beleño</name>
+<address>Rodríguez Sampedro, 39 - 33206 Gijón</address>
+<phoneNumber>985 35 97 81</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.669302,43.541884,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café - Bar Alambique</name>
+<address>Avda. de la Constitución, 52 - 33207 Gijón</address>
+<phoneNumber>985 34 82 82</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.66883,43.534527,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Hoyo 19</name>
+<address>Corín Tellado, 5 - 33204 Gijón</address>
+<phoneNumber>984 39 50 30</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.641687,43.527992,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Restaurante La Dársena</name>
+<address>Claudio Alvargonzález, 10 - 33201 Gijón</address>
+<phoneNumber>985 35 30 24 / 985 35 08 66</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.664882,43.546162,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>La Taberna Gigia</name>
+<address>Óscar Olavarría, 8 - 33201</address>
+<phoneNumber>984 49 04 19</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.664276,43.545888,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>El Callejón Bar</name>
+<address>Arzobispo Valdés, 1 - 33201</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.662972,43.545222,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bar Ramón</name>
+<address>Aguado, 40 - 33203</address>
+<phoneNumber>985 36 00 48</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.648081,43.539843,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pulpería O Pazo do Paradela</name>
+<description>Especialidades gallegas: pulpo, lacón, cachelos, pimientos del padrón, tapas.Cachopos: gallego, montañés, asturiano, leonés.</description>
+<address>Emilio Tuya, 30</address>
+<phoneNumber>985 13 39 16</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.649668,43.539139,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café-Vinatería El Badulaque</name>
+<address>Doctor Aquilino Hurlé, 24</address>
+<phoneNumber>686 38 25 54</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.647383,43.539263,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mi capricho</name>
+<address>Doctor Aquilino Hurlé, 25</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.648467,43.538369,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cafetería Hurlé 15</name>
+<address>Doctor Aquilino Hurlé, 15 - 33202</address>
+<phoneNumber>985 36 54 87</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.649003,43.537708,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café-Restaurante De Mouzo</name>
+<description>Vinos, tapas, cocina creativa a la carta, menú del día, desayunos con bizcochos caseros y rosquillas.Martes cerrado.</description>
+<address>Menéndez y Pelayo, 10</address>
+<phoneNumber>984 04 24 24</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.652672,43.538528,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Vinatería El Bochinche</name>
+<address>Manso, 18 - 33203</address>
+<phoneNumber>985 37 42 32</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.648628,43.539699,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bar Oviñana</name>
+<address>Piles, 15</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.647973,43.538093,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Vinatería-Tienda Delicatessen La Artesa de la Güela</name>
+<description>Un lugar donde se puede degustar sus productos o llevárselos a casa. Los productos más destacados son ibéricos y embutidos de León (cecina, chorizo, jamón, salchichón), jamón serrano de Teruel con denominación de origen, quesos de cabra, oveja y manchego elaborados de forma tradicional, conservas de verduras, legumbres y hortalizas con denominación de origen.Capacidad para hasta 80 personas.</description>
+<address>Manso, 14 - 33202</address>
+<phoneNumber>984  39 86 60</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.648102,43.539493,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Santorini</name>
+<address>Avda. Rufo Rendueles, 18</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.646922,43.54006,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sal y Azúcar, salón de té</name>
+<address>Gloria Fuertes, 14 - 33204</address>
+<phoneNumber>985 13 04 01</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.650913,43.525398,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Vinatería Las 3 Marías</name>
+<description>Vinos, tapas, especialidad en tostas caseras.</description>
+<address>Numa Gilhou, 16 - 33206</address>
+<phoneNumber>649 435 226</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.665901,43.542016,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>La Perla del Norte</name>
+<address>Calle del buen suceso, 2</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.66367,43.543189,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cafetería San Rafael</name>
+<address>Avenida Manuel Llaneza, 49 - 33208</address>
+<phoneNumber>985 38 94 53</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.665032,43.534904,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cafetería Manacor</name>
+<description>Acepta reservasIndicado para gruposEnfocado a los niñosPara llevarServicio de camarerosTerraza</description>
+<address>Plaza Florencio Rodríguez, 1 - 33206</address>
+<phoneNumber>984 49 24 65</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.663675,43.542263,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Vinatería Reconquista</name>
+<address>Aguado, 1</address>
+<phoneNumber>985 33 46 99</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.650419,43.537513,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>El Pindal</name>
+<address>Juan Alvargonzález, 47</address>
+<phoneNumber>985 38 32 40</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.667843,43.530221,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Musical Xaréu</name>
+<description>Cafetería situada enfrente de la plaza de toros de El Bibio- Gijón. Terraza durante todo el año. Retransmisiones deportivas en pantallas gigantes de 4x3 y 3x2 metros.Amplia carta de vinos, cervezas, gin-tonics, platos combinados y tapas.Especialidad en café 100% arábica y latte art.Karaoke con más de 5.000 canciones. Salón privado para eventos, fiestas, karaokes, cumpleaños, grupos, etc.Wi-Fi Gratuito.</description>
+<address>Avenida Pablo Iglesias, 96</address>
+<phoneNumber>985 33 31 17</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.6469,43.535137,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Misgüevos Bar</name>
+<address>Emilio Tuya, 32</address>
+<phoneNumber>(+34) 985 36 22 72</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.649765,43.539053,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Golden Gastrobar</name>
+<address>Aguado, 15 - 33202 Gijón</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.649583,43.538548,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Vinatería A Santa Compaña</name>
+<description>Vinatería coqueta y cálida. Disfruta de un buen 
+vino acompañado de un buen pinchín.</description>
+<address>Avenida del Llano, 65 - 33209 Gijón</address>
+<phoneNumber>(+34) 985 84 65 43</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.663273,43.525601,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café San Pedro</name>
+<address>Cabrales, 4 - 33201 Gijón</address>
+<phoneNumber>(+34) 985 35 99 13</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.661824,43.544279,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Capuccino</name>
+<address>Corrida, 23 - 33206 Gijón</address>
+<phoneNumber>(+34) 985 34 77 15</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.664077,43.542158,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>La Casa del Café</name>
+<description>Café de Etiopía, pinchos de primera y una atención de lujo en el centro de Gijón, junto a la estación de autobuses.</description>
+<address>Avenida de portugal, 5 - 33207 Gijón</address>
+<phoneNumber>(+34) 984 39 46 61</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.667564,43.539197,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Los Juzgados</name>
+<description>Situada en la playa de Poniente, muy cerquita del Acuario. Especialistas en repostería casera y chocolate con churros para desayunar y merendar.Sorprendente variedad de pinchos, sándwiches y hamburguesas.Menú diario y platos combinados.Amplio comedor con cocina abierta todo el día.Descuento del 15% con la tarjeta turística Gijón Card</description>
+<address>Juan Carlos I, 6 - 33212 Gijón</address>
+<phoneNumber>+34 985 19 54 56</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.673808,43.541091,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Johy-Los Manzanos</name>
+<address>Doctor Aquilino Hurle, 31</address>
+<phoneNumber>985 37 21 90</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.647608,43.539547,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Vinartería Canaa</name>
+<description>Un bonito local y dos terrazas donde poder tomar desde un buen vino, acompañado de buenas tapas, hasta un cava o gin tonic, disfrutando al mismo tiempo de las interesantes exposiciones de arte que cuelgan habitualmente de sus paredes. Todo ello en El Carmen, la zona de moda para tomar vinos en Gijón.</description>
+<address>C/ Salustio Regueral, 10. 33206. Gijón.</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.66471,43.542903,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cafetería Korynto</name>
+<description>Cafetería situada en pleno centro de la ciudad, concretamente en el paseo de la calle Corrida.No permite la entrada de animales al establecimiento.</description>
+<address>Calle Corrida, 19. 33206. Gijón.</address>
+<phoneNumber>+ 34 984 392 974</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.663637,43.540597,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Oquen Café</name>
+<description>Admite animales sólo en terraza.</description>
+<address>Avenida de la Argentina, 77. 33213. Gijón.</address>
+<phoneNumber>984 397 204</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.702755,43.538349,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Les Candases Café</name>
+<description>Más de 60 cafés especiales y distintos... cocktails, infusiones 
+especiales, chocolates, combinados, zumos, batidos naturales, copas de 
+helado, platos combinados, sandwiches y una amplia carta de cervezas, en
+ botella y barril, entre las que destaca la “Sir. Roberts” de 
+elaboración propia.Nuestra larga experiencia nos permite asegurar la máxima calidad, 
+junto con un esmerado servicio y trato exquisito hacia nuestros 
+clientes. Todo esto y mucho más te espera en Les Candases donde podrás tomarte desde un café hasta comer plácidamente o probar un buen pincho de tortilla.Estamos
+ localizados en la zona centro de la cuidad, en la esquina de la calle 
+Marqués de Casa Valdés, una vía de gran tránsito y con afluencia de 
+gente. El interior de la cafetería está decorado con motivos musicales y
+ diferentes atrezos, con un toque particular al mismo tiempo que 
+distinguido. Todo en su conjunto lo convierte en un local entrañable.Les Candases cuenta con una barra para dar un correcto servicio a
+ la vez que ágil y está condicionado con varias mesas y sillas bastante 
+cómodas. Haz de nuestra cafetería tu punto de encuentro y partida de tus
+ citas y reuniones. Además, disponemos de una pantalla gigante de 50&quot; 
+para que puedas ver tus retransmisiones deportivas favoritas. ¡Te 
+esperamos!Admite animales.</description>
+<address>Calle Garcilaso de la Vega, 2. 33202. Gijón.</address>
+<phoneNumber>+ 34 985 134 298</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.655295,43.539376,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Laam Café</name>
+<description>Admite animales.</description>
+<address>Calle de La Sierra del Sueve, 13. 33211. Gijón.</address>
+<phoneNumber>677 028 443</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.681705,43.529202,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Gota a Gota</name>
+<description>Gota a gota, hemos hecho un sueño realidad. Con el mejor ambiente, la más completa selección de vinos y la clientela más selecta.Desde primera hora de la mañana podrás disfrutar de los desayunos más completos, avanzando el día nos
+ vamos transformando en uno de los locales más especializados en vinos 
+de esta maravillosa ciudad, para poner el punto final a un día 
+inolvidable con nuestra mejor coctelería.En
+ temporada, nuestra terraza y la reconocida caracterización de nuestro 
+local para las más originales fiestas temáticas dejarán un grato 
+recuerdo.Ven y compruébalo.Admite animales.</description>
+<address>Avenida del Llano, 21. 33209. Gijón.</address>
+<phoneNumber>+ 34 985 162 156</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.661427,43.53026,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Espresso Republic Coffee</name>
+<description>Admite animales siempre que no sean muy grandes.</description>
+<address>Calle Covadonga, 18. 33205. Gijón.</address>
+<phoneNumber>+ 34 984 395 056</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.659357,43.53938,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>El Rincón de Capua</name>
+<description>El Rincón de Capua es un Bar de Tapas donde encontrará una oferta gastronómica variada y original sin olvidarse de la tierra donde está situado: Asturias.En la carta encontrará ensaladas únicas, raciones generosas, tostas muy sabrosas y unos estupendos vinos; todo ello regado
+por una excelente sidra y amenizado con buena música. Todos nuestros platos están pensados para compartir y lo cierto es que comer aquí es realmente económico.Además disponen de un Menú del día y una de las cervezas mejor tiradas de Gijón.Descanso: LunesNo admite animales.</description>
+<address>Calle Capua, 18. 33202. Gijón.</address>
+<phoneNumber>+ 34 984 399 895</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.658123,43.540239,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>El Capricho</name>
+<address>Calle del Marqués de San Esteban, 7. 33206. Gijón.</address>
+<phoneNumber>+ 34 984 196 274</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.665327,43.543218,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>El Cafetal</name>
+<description>Moderna cafetería de Gijón situada en pleno centro de la ciudad, frente al Centro Comercial San Agustín.En la parte de abajo de la cafetería ofrece una zona de juegos con billar. Permite la entrada de animales al establecimiento.</description>
+<address>Calle La Muralla, 3. 33202. Gijón.</address>
+<phoneNumber>+ 34 984 190 682</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.659217,43.541157,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chaman Vinoteca Café</name>
+<description>Vinatería y lugar de tapeo situado en pleno centro de la ciudad, concretamente en la ruta de los vinos.</description>
+<address>Calle San Bernardo, 3. 33201. Gijón.</address>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.662371,43.544411,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cafetería Roger's</name>
+<description>La cafetería Roger's se inaguro el 2 de Mayo de 1978 y en la actualidad, 
+(completamente reformada), es una de las cafeterias mas distinguidas y 
+con mas solera de Gijon , Sus grandes ventanales hacen de la Rogers un 
+lugar abierto al exterior, su decoración funcional e intimista y la 
+atencion personalizada de sus profesionales hacen que el cliente se 
+pueda sentir comodo en todo momento. Amplia carta con desayunos, meriendas, platos combinados, tapas, pinchos, sándwiches, irlandeses y escoceses…Disponen de zona wifi, instalaciones de aire climatizado, cambiador de bebés...En definitiva este establecimiento es una parada obligatoria si estás en Gijón.No permite la entrada de animales al establecimiento.Descansa: miércoles</description>
+<address>Avenida Manuel Llaneza 47. 33208. Gijón.</address>
+<phoneNumber>+ 34 985 390 547</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.664705,43.535122,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cafetería La Criolla</name>
+<address>Calle Uría, 6 bajo. 33202. Gijón.</address>
+<phoneNumber>+ 34 985 360 075</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.656975,43.538995,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cafetería Banús</name>
+<description>Cafetería situada frente a la playa de Poniente con una amplia terraza en el paseo del muelle.No permite la entrada de animales al establecimiento.</description>
+<address>Calle Rodríguez Sampedro, 5. 33206. Gijón.</address>
+<phoneNumber>+ 34 985 356 767</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.666427,43.543089,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Vinoteca Raymond</name>
+<description>Cafetería situada en la centro de Gijón, muy próxima al paseo de begoña.Se permite la entrada de animales al establecimiento.</description>
+<address>Calle Covadonga, 17. 33205. Gijón.</address>
+<phoneNumber>+ 34 985 171 850</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.661813,43.53875,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Vinos Dómine</name>
+<description>Descansa: DomingoCafeterýa y vinatería con gran variedad de pinchos.No permite la entrada de animales al establecimiento.</description>
+<address>Calle Santa Doradía, 23. 33202. Gijón.</address>
+<phoneNumber>609 973 876</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.65705,43.538015,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Tenampa</name>
+<description>Cafetería y salón de té.Admite animales en el establecimiento siempre que no causen molestias.</description>
+<address>Calle Pedro Duro, 16. 33206. Gijón.</address>
+<phoneNumber>+ 34 985 351 704</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.666448,43.54111,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Samara</name>
+<description>No permite la entrada de animales en el establecimiento.</description>
+<address>Calle de la Peña Santa de Enol, 5. 33211. Gijón.</address>
+<phoneNumber>+ 34 985 990 165</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.679548,43.52683,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Plaza</name>
+<description>Cafetería situada en el centro de la ciudad. Ofrece desayunos y comida tradicional.No permite la entrada de animales al establecimiento.</description>
+<address>Calle Cura Sama, 6. 33202. Gijón.</address>
+<phoneNumber>+ 34 984 490 222</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.657468,43.540127,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Mayerling</name>
+<description>Café Bar Restaurante musical. Ofrecen desayunos, menú del día y platos combinados.Admite la entrada de animales al establecimiento mientras vayan atados y no causen molestias.</description>
+<address>Calle Corrida 14. 33206. Gijón.</address>
+<phoneNumber>+ 34 985 358 763</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.663906,43.540994,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Gaudí</name>
+<description>Moderna cafetería y familiar.No permite la entrada de animales al establecimiento.</description>
+<address>Calle Juan Alvargonzález 35. 33208. Gijón.</address>
+<phoneNumber>+ 34 985 147 361</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.66956,43.53054,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café El Alquimista</name>
+<description>El Alquimista es un establecimiento moderno abierto a
+ todo tipo de público. Localizado en la zona del Llano de Gijón y con un
+ amplio horario de apertura, desde las 8:00 de la mañana hasta la 
+madrugada, todos los días del año.Podrás disfrutar de 
+desayunos, meriendas y aperitivos, una amplia carta de tés y cafés. 
+Contamos con una atractiva bodega de vinos, una selección de las mejores
+ cervezas de importación y los más suculentos cócteles, no te quedes sin
+ probar nuestro especial de la casa “Alquimista”, Paraíso Natural o Leche de Pantera...EnCafé-bar El Alquimista encontrarás el mejor ambiente. Ofrecemos un trato cercano a nuestros 
+clientes, quienes se sienten como en su propia casa, con un servicio 
+estupendo. ¿A qué esperas para conocernos? Cualquier momento es bueno.No permite la entrada de animales al establecimiento.</description>
+<address>Plaza de la Serena 4 - bajo dcha. 33208. Gijón.</address>
+<phoneNumber>+ 34 984 190 494</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.668465,43.532446,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Central</name>
+<description>Café
+ clásico con situación privilegiada, en pleno eje comercial. Sobresale 
+su exquisita decoración. Gran variedad en desayunos y menús.No permite la entrada de animales al establecimiento.Día de descanso: Domingos</description>
+<address>Calle Pelayo 6. 33205. Gijón.</address>
+<phoneNumber>+34 985 358 717 / +34 985 346 119</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.662994,43.53874,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café-Vinatería Picasso</name>
+<address>Calle Roncal, 8- 33208 Gijón</address>
+<phoneNumber>984 49 03 32</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.66824,43.529879,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cafetería Snack-bar Bergantín</name>
+<description>Situado en la zona de El Bibio, en este acogedor restaurante podrá 
+degustar de los platos preparados por el Chef Benjamín Caballero. Con 
+capacidad para 45 personas, está decorado con motivos marineros, de 
+entre los que destaca cuatro maquetas de barcos y los tonos azules de 
+todo el local. Este acogedor restaurante evoca la mar.No admite animales.</description>
+<address>Avenida de Torcuato Fernández Miranda, 26. 33203. Gijón</address>
+<phoneNumber>+ 34 985 199 800</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.642544,43.535857,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>As de Picas</name>
+<description>Inaugurado el 22 de febrero de 2006, el Restaurante As de Picas se 
+encuentra situado en el centro de Gijón y ubicado en las instalaciones 
+del Casino de Asturias, con entrada independiente al mismo.Su 
+exquisita decoración y su atmósfera tranquila lo convierten en el lugar 
+ideal para celebraciones, comidas de trabajo o reuniones familiares.La
+ cocina del Restaurante se caracteriza por el esmero en la creación de 
+nuevas recetas, siempre conservando el gusto por lo tradicional.Contacto: Mariluz MariñoDescuento del 10% con la tarejta turística Gijón Card</description>
+<address>Calle Fernandez Vallín (Esquina Padilla) 33205. Gijón</address>
+<phoneNumber>+ 34 985 343 434</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.662543,43.539636,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sala Acapulco</name>
+<description>El Casino de Asturias alberga una sala polivalente para cualquier tipo 
+de acto desde conferencias, convenciones o reuniones de trabajo, hasta 
+banquetes y celebraciones. Dispone de programación mensual de conciertos
+ y actividades y de una variada carta de cócteles.</description>
+<address>Calle Fernández vallín (esquina Padilla)</address>
+<phoneNumber>+ 34 985 343 434</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.66264,43.539675,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bay Pass Bar</name>
+<description>Moderno bar de copas situado en la zona de ruta de los vinos de Gijón.No se permite la entrada de mascotas en el establecimiento.</description>
+<address>Cervantes, 8. 33206. Gijón.</address>
+<phoneNumber>+34 985 17 00 10</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.665609,43.542537,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lautrec</name>
+<description>LAUTREC te ofrece el mejor ambiente a cualquier hora del día, siempre con un excelente servicio. Porque somos un local de referencia que cuenta con una clientela consolidada, con distintos ambientes, aptos para todo tipo de público, pero con la esencia que nos caracteriza: servicio y ocio garantizado, calidad y precios. En CAFÉ-PUB LAUTREC abrimos nuestras puertas desde por la mañana para ofrecerte los desayunos más ricos y completos de la zona. A media mañana también puedes pasarte a tomar nuestros aperitivos, canapés y bocatas. Por la tarde anímate a degustar un buen café, como recién molido, con toda su esencia... tómate unas cañas o ricas cervezas de nuestra selecta carta en uno de los ambientes más agradables de Gijón.CAFÉ-PUB LAUTREC es un local moderno con un servicio de calidad. Con una minuciosa decoración te sentirás envuelto en un entorno sofisticado a la par que moderno, un ambiente vivo. Las paredes están adornadas con numerosas reproducciones de pinturas y carteles de Henri de Toulouse-Lautrec, entre la piedra y la madera que distingue nuestro espacio. Todo tipo de clientes tiene cabida en este local, somos un punto de referencia de la zona Náutico, zona de copas más cercana a la playa de San Lorenzo.Diviértete en un buen ambiente, disfruta de una inmejorable copa y buena música.</description>
+<address>Capua, 5. 33202. Gijón</address>
+<phoneNumber>+ 34 985 353 502</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.658455,43.541563,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Vorbier&amp;Bar</name>
+<description>En nuestra cervecería podras degustar más de 60 tipos de cervezas procedentes de diferentes lugares del mundo. Tanto si prefieres botella o caña, podras elegir la que más te guste y sorprenderte con los deliciosos brebajes que trabajamos y acompañarlas con alguna de nuestras Pizzas caseras o las hamburgesas Gourmet de carne de Buey, que nosotros mismos elaboramos.Además, poseemos varios tipos de cocktail's y gin tonics para acabar las noches con un toque diferente.</description>
+<address>Prendes Pando, 29. 33208. Gijón.</address>
+<phoneNumber>+34 984 29 08 82</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.666008,43.537117,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Garamont</name>
+<address>Covadonga, 5. 33201. Gijón.</address>
+<phoneNumber>+34 985 168 776</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.659292,43.539248,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>La Habana Pub</name>
+<description>Quince años en Gijón creando ambiente.En la Cafetería Habana, situada en el muelle deportivo, podréis vivir las mejores noches con la música más actual y disfrutar de maravillosas tardes con un café frente al sol de Poniente.</description>
+<address>Claudio Alvargonzález, 22</address>
+<phoneNumber>+ 34 985 34 32 55</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.665703,43.546871,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ambigú</name>
+<description>Los sabores de nuestra cocina tienen su origen en “la cocina tradicional italiana”, sin embargo, poco a poco, nos gusta innovar e introducir nuevos platos, para que nuestros clientes degusten otros sabores diferentes, que siempre bajo nuestro criterio son mejores.Gepetto tenía un pequeño taller de carpintería, donde sus delicadas manos trabajaban con cariño y esmero la madera, para poder elaborar las piezas más perfectas posibles, pero siempre de manera artesanal. Igualmente, nuestra pequeña cocina elabora platos caseros, con los mejores ingredientes y una combinación de sabores y aromas capaces de satisfacer, por su variedad, a prácticamente todos los paladares.Nuestro principal objetivo es la satisfacción del cliente, por lo que nos gusta escuchar sus sugerencias, que finalmente nos ayudan a mejorar la calidad final de nuestra carta. El toque final de nuestros platos es muy importante, porque pensamos que también se come con la vista; quizá todos los sentidos participan en alguna medida.Procuramos que nuestros clientes se sientan tan a gusto en nuestro restaurante, que realmente lleguen a sentirse como en casa. La casa de nuestro abuelo Gepetto.No permite la entrada de mascotas en el establecimiento.Descuendo del 10% con la tarjeta turística Gijón Card</description>
+<address>Avda. José García Bernardo, 256. 33203. Gijón.</address>
+<phoneNumber>+34 985 36 73 77</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.645624,43.543142,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cafetería Vivaldi</name>
+<description>En 1678 nació en Venecia el Compositor y Violinista Antonio Vivaldi, del cual Igor Stravinski comentó en una ocasión que Vivaldi no había escrito nunca quinientos conciertos, sino «quinientas veces el mismo concierto». No deja de ser cierto en lo que concierne al original e inconfundible tono que el compositor veneciano supo imprimir a su música y que la hace rápidamente reconocible. Autor prolífico, la producción de Vivaldi abarca no sólo el género concertante, sino también abundante música de cámara, vocal y operística. Célebre sobre todo por sus cuatro conciertos para violín y orquesta reunidos bajo el título Las cuatro estaciones, cuya fama ha eclipsado otras de sus obras igualmente valiosas, si no más, Vivaldi es por derecho propio uno de los más grandes compositores del período barroco e impulsor de la llamada Escuela Veneciana. Con el propósito de trasladar estos valores a la hostelería, en 2006 inauguramos Cafetería Vivaldi, para ofrecer nuestro servicio en una zona de reciente creación en Gijón, Montevil (Ver mapa y contacto).Un lugar acogedor, diseñado con amplias cristaleras, decorado en madera y tonos cálidos con suave iluminación y terraza cubierta, para que Ud. se sienta cómodo, disfrutando de su tiempo.Ponemos a su disposición nuestra “prolífica” y especializada composición, de la cual puede ver un adelanto en esta web, con gran variedad de pinchos de elaboración propia, platos combinados, extensa selección de chocolates calientes y fríos, amplia colección de reconfortantes infusiones y tés naturales, batidos, combinados de café, las mejores ginebras y vodkas de importación y un amplio etcétera.En nuestras partituras se repite siempre, pese a lo que pueda decir Stravinski, la misma nota, la calidad del producto. Porque Usted, no se merece menos.No permite la entrada de animales al establecimiento.Descuento del 10% en compras superiores a 20€ con la tarjeta turística Gijón Card</description>
+<address>Les Cigarreres, 29. 33211. Gijón.</address>
+<phoneNumber>+34 985 09 04 93</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.678427,43.520625,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marqués 10</name>
+<address>Plaza del Marqués, 10. 33207. Gijón</address>
+<phoneNumber>+34 985 34 03 27</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.663321,43.544966,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>V.O.S.</name>
+<address>Marqués de San Esteban, 13</address>
+<phoneNumber>984 19 88 35</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.665783,43.542925,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bar Inn</name>
+<description>Punto de encuentro escogido por una multitud de clientes para la primera copa de la noche, este bar de copas se encuentra en la agitada plaza del Marqués. Ofrecen una amplia carta de cervezas y copas de todos los tipos. Destaca por una cuidada selección musical que abarca desde los temas más actuales del pop-rock internacional hasta la música española más escuchada. Cuenta con terraza de verano y retransmiten eventos deportivos.Permite mascotas en la zona de terraza.</description>
+<address>Plaza del Marqués. 33201. Gijón.</address>
+<phoneNumber>+34 985 39 43 64</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.663138,43.545196,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Royal</name>
+<description>Cafetería que ofrece menú del día, platos combinados y raciones.</description>
+<address>Lastres, 6. 33207. Gijón.</address>
+<phoneNumber>+34 985 35 29 73</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.670713,43.534921,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pícaro</name>
+<description>Divertido local en la zona de Fomento, donde siempre encontrarás un ambiente en el que te encuentrés cómodo. Su música y su ambiente lo han convertido sin duda en parada obligada en la noche de Gijón.Día de descanso:En temporada de invierno: De lunes a miércoles.
+En temporada de verano: abierto todos los días.Distintivos de calidad:SICTED.No admite animales.</description>
+<address>Marqués de San Esteban, 12 - 33206. Gijón.</address>
+<phoneNumber>+34 985 170 671</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.665703,43.543179,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Bar Bambara</name>
+<description>Clásico local en la hostelería de Gijón que combina el ambiente diurno de uno de los mejores cafés con la movida nocturna de la Zona Fomento.Certificados de calidad:SICTED.Persona de contacto:D. Fernando Castaño.</description>
+<address>Marqués de San Esteban, 9 - bajo</address>
+<phoneNumber>+34 985 347 887</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.66574,43.543054,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bulevar</name>
+<description>Un clásico en las noches de Gijón, con 16 años de historia. La mejor música, el mejor ambiente y las mejores fiestas nos han hecho ser un referente de la movida Gijonesa.Zona:Puerto deportivo. Certificados de calidad:SICTED.Persona de contacto:D. Fernando Castaño.No permite la entrada de animales al establecimiento.Descuento del 15% con la tarjeta turística Gijón Card</description>
+<address>Claudio Alvargonzález, 8. 33201. Gijón.</address>
+<phoneNumber>+34 985 342 031</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.664668,43.546041,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Café Gijón II</name>
+<address>C/Marqués de San Esteban, 40</address>
+<phoneNumber>985 346 796</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.667631,43.542393,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taberna Café Gijón</name>
+<description>El Café Gijón se encuentra situado junto a la playa de Poniente, frente al Puerto Deportivo, y evoca el recuerdo de la tertulia de los cafés de antaño.Especialidad en pinchos, desayunos, tapas variadas, amplia carta de cafés especiales (carajillos, mini-irlandés, vienés,...), coctelería variada (mojitos, caipiriña...).Sala de exposición permanente, donde cada quince días la obra de un artista cuelga de nuestras paredes.Terraza de verano.</description>
+<address>C/Rodríguez San Pedro, 33 (también entrada por C/ Marqués de San Esteban, 40)</address>
+<phoneNumber>985 346 796</phoneNumber>
+<styleUrl>#exampleStyleMap </styleUrl>
+<Point>
+<coordinates>-5.668741,43.542097,0</coordinates>
+<altitudeMode>relativeToGround</altitudeMode>
+</Point>
+</Placemark>
+
+</Document>
+</kml>
