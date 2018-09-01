@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recetas.xsl"?>
+<recetas>
+    <receta>
+        <nombre>Bollos preñaos</nombre>
+        <tipoPlato>Entrante</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="3" unidad="unidades">Chorizo</ingrediente>
+            <ingrediente cantidad="500" unidad="gramos">Harina de fuerza</ingrediente>
+            <ingrediente cantidad="180" unidad="gramos">Leche</ingrediente>
+            <ingrediente cantidad="100" unidad="gramos">Mantequilla</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Huevo</ingrediente>
+            <ingrediente cantidad="25" unidad="gramos">Levadura de panadería</ingrediente>
+            <ingrediente cantidad="1" unidad="cucharadita">Sal</ingrediente>
+        </ingredientes>
+        <calorias>350</calorias>
+        <procesoElaboracion>
+            <paso orden="1">Deshacemos la levadura en la leche tibia</paso>
+            <paso orden="2">Colocamos la harina en forma de volcán y añadimos la mantequilla fundida, el huevo batido y la leche. Amasamos</paso>
+            <paso orden="3">Añadimos la sal y seguimos amasando durante 10-15 minutos hasta conseguir una masa consistente que no resulte pegajosa</paso>
+            <paso orden="4">Tapamos la masa con un paño de algodón y la dejamos reposar en un lugar cálido hasta que doble su tamaño</paso>
+            <paso orden="5">Transcurrido el tiempo, extendemos la masa sobre la mesa y la dividimos en partes iguales. Para esta cantidad os recomiendo que la dividáis en 12. Ponemos un trozo de masa extendido sobre la palma de la mano y dentro un trocito de chorizo, al que habremos quitado la piel. Cerramos la masa y hacemos un bola (ver paso a paso abajo)</paso>
+            <paso orden="6">Colocamos los bollinos sobre una fuente de horno y los dejamos en un sitio cálido para que suban otra vez</paso>
+            <paso orden="7">Precalentamos el horno a 180ºC. Pintamos los bollos con leche e introducimos la bandeja a media altura, horneando durante 15 o 20 minutos, hasta que estén dorados</paso>
+            <paso orden="8">Sacamos los bollinos y los ponemos a enfriar en un rejilla</paso>
+        </procesoElaboracion>
+        <dificultad>Fácil</dificultad>
+        <tiempo unidad="minutos">30</tiempo>
+        <elementosElaboracion>
+            <elemento>Horno</elemento>
+            <elemento>Paño de algodón</elemento>
+        </elementosElaboracion>
+        <origen>http://lacucharinamagica.com/2013/05/bollos-prenaos-de-chorizo-asturiano-receta-paso-a-paso.html</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Fabada asturiana</nombre>
+        <tipoPlato>Primero</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="1" unidad="kg">Fabes</ingrediente>
+            <ingrediente cantidad="3" unidad="unidades">Chorizo</ingrediente>
+            <ingrediente cantidad="3" unidad="unidades">Morcilla</ingrediente>
+            <ingrediente cantidad="200" unidad="gramos">Pollo</ingrediente>
+            <ingrediente cantidad="500" unidad="gramos">Lacón</ingrediente>
+            <ingrediente cantidad="150" unidad="gramos">Tocino</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Ajo</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Cebolla</ingrediente>
+            <ingrediente cantidad="1" unidad="cucharada">Aceite de oliva</ingrediente>
+        </ingredientes>
+        <calorias>618</calorias>
+        <procesoElaboracion>
+            <paso orden="1">Ponemos las fabes a remojo con agua y una cucharada de aceite durante mínimo 8 horas</paso>
+            <paso orden="2">Dejamos el lacón a desalar en un recipiente con agua durante el tiempo que estén en remojo las fabes. Cambiamos el agua una vez, cuando lleven 3 ó 4 horas</paso>
+            <paso orden="3">En una olla grande, tened en cuenta que las fabes van a aumentar de volumen, ponemos todos lo ingredientes: las fabes, la cebolla partida a la mitad, el ajo en trozos, los chorizos, las morcillas, el lacón, el tocino y el perejil. Cubrimos con agua fría y dejamos que comience a cocer lentamente</paso>
+            <paso orden="4">Una vez que comienza a hervir, se quita la espuma que aparece en la superficie y se va echando agua fría, 1/4 de vaso, cada vez que hierba con intensidad. Esto es lo que se llama “asustar les fabes”</paso>
+            <paso orden="5">Dejamos cocer todo junto lentamente durante 2 ó 3 horas, dependiendo de la faba. Habrá que tener cuidado de que no alcancen una cocción alta, ya que deberá ser lenta en todo momento</paso>
+            <paso orden="6">Cuando la cocción ya esté casi lista, añadimos una cucharada de postre de pimentón dulce y un poco de azafrán tostado. No será necesaria la sal, pero por si acaso probadla y rectificar si lo pide</paso>
+            <paso orden="7">Al finalizar la cocción podéis retirar la cebolla o dejarla. No es muy estética, pero está muy buena. El perejil sí que debéis retirarlo, queda feo y no aporta sabor.La Fabada se sirve en dos veces, por un lado las fabes y por otro el compangu, de forma que los comensales se echen en el plato la cantidad de carne que deseen</paso>
+        </procesoElaboracion>
+        <dificultad>Media</dificultad>
+        <tiempo unidad="horas">8</tiempo>
+        <elementosElaboracion>
+            <elemento>Recipiente</elemento>
+            <elemento>Olla</elemento>
+        </elementosElaboracion>
+        <origen>http://lacucharinamagica.com/2012/12/fabada-asturiana.html</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Frisuelos</nombre>
+        <tipoPlato>Postre</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="200" unidad="gramos">Harina de trigo</ingrediente>
+            <ingrediente cantidad="4" unidad="unidades">Huevo</ingrediente>
+            <ingrediente cantidad="500" unidad="ml">Leche</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Ralladura de limón</ingrediente>
+            <ingrediente cantidad="1" unidad="cucharada">Anís</ingrediente>
+            <ingrediente cantidad="2" unidad="cucharadas">Azúcar blanco</ingrediente>
+            <ingrediente cantidad="1" unidad="pizca">Sal</ingrediente>
+        </ingredientes>
+        <procesoElaboracion>
+            <paso orden="1">Batimos bien los huevos y añadimos el azúcar batiendo de nuevo</paso>
+            <paso orden="2">Añadimos el anís, la leche, la sal y la ralladura de limón, y seguimos batiendo</paso>
+            <paso orden="3">Poco a poco, echamos la harina y la integramos con el resto de los ingredientes hasta que se forma una mezcla homogénea</paso>
+            <paso orden="4">Dejamos posar 1 hora y colamos la pasta para evitar que haya grumos y restos de la ralladura</paso>
+            <paso orden="5">Mojamos una brocha en un poco de aceite y pintamos la sartén de forma que apenas haya aceite, sólo quede manchada</paso>
+            <paso orden="6">Dependerá del tamaño de la sartén, pero deberéis poner poca cantidad de masa, para una sartén pequeña dos cucharadas soperas serán suficientes. Rápidamente debéis mover la sartén para que la masa se extienda por toda la superficie de la sartén, a temperatura media (en vitrocerámica al 6-7)</paso>
+            <paso orden="7">Transcurridos medio minuto, intentad despegar los bordes del frixuelo, si despegan bien meted la cuchara por debajo del frixuelo y dadle la vuelta, dejad otro medio minuto o hasta que se dore y sacamos de la sartén</paso>
+            <paso orden="8">Colocamos los frixuelos en un plato y espolvoreamos con azúcar</paso>
+            <paso orden="9">Iremos poniendo todos los frixuelos uno encima de otro para que no enfríen</paso>
+        </procesoElaboracion>
+        <dificultad>Fácil</dificultad>
+        <tiempo unidad="minutos">30</tiempo>
+        <elementosElaboracion>
+            <elemento>Varillas</elemento>
+            <elemento>Bol</elemento>
+            <elemento>Brocha</elemento>
+            <elemento>Sartén</elemento>
+        </elementosElaboracion>
+        <origen>Libro de las 1001 recetas</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Dulce de manzana</nombre>
+        <tipoPlato>Postre</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="20" unidad="unidades">Manzana</ingrediente>
+            <ingrediente cantidad="5" unidad="cucharadas">Azucar</ingrediente>
+            <ingrediente cantidad="3" unidad="litros">Agua</ingrediente>
+        </ingredientes>
+        <procesoElaboracion>
+            <paso orden="1">Lavamos bien las manzanas y quitamos el rabo</paso>
+            <paso orden="2">Cortamos las manzanas en trozos, con la piel y el corazón, y la ponemos en una olla, cubriéndolo todo con agua</paso>
+            <paso orden="3">Cocemos a fuego lento las manzanas con la tapa destapada hasta que se una compota</paso>
+            <paso orden="4">Pasamos por el pasapuré la compota de manzana y desechamos los restos de manzana, piel y corazón</paso>
+            <paso orden="5">Medimos con tazas la compota y las ponemos en una olla, añadiendo el mismo número de tazas de azúcar</paso>
+            <paso orden="6">Dejamos cocer lentamente, mientras se va reduciendo la compota, oscureciendo y caramelizándose. Tardará aproximadamente 1 hora</paso>
+            <paso orden="7">Sabremos cuándo está listo en el momento en que pongamos una gota sobre una superficie y ésta se cuaje</paso>
+            <paso orden="8">Rellenamos recipientes con el dulce y dejamos enfriar para que la parte de arriba quede más dura. Cerramos herméticamente y guardamos</paso>
+        </procesoElaboracion>
+        <dificultad>Fácil</dificultad>
+        <tiempo unidad="horas">2</tiempo>
+        <elementosElaboracion>
+            <elemento>Olla</elemento>
+            <elemento>Pasapuré</elemento>
+            <elemento>Recipientes</elemento>
+        </elementosElaboracion>
+        <origen>http://lacucharinamagica.com/2013/11/dulce-de-manzana-receta-tradicional-asturiana.html</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Helado de Arroz con leche</nombre>
+        <tipoPlato>Postre</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="1" unidad="litro">Leche</ingrediente>
+            <ingrediente cantidad="100" unidad="gramos">Arroz</ingrediente>
+            <ingrediente cantidad="200" unidad="ml">Agua</ingrediente>
+            <ingrediente cantidad="1" unidad="cucharada">Mantequilla</ingrediente>
+            <ingrediente cantidad="1" unidad="cucharada">Anís</ingrediente>
+            <ingrediente cantidad="12" unidad="cucharaditas">Azúcar</ingrediente>
+            <ingrediente cantidad="1" unidad="pizca">Sal</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Caña de canela</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Ralladura de limón</ingrediente>
+        </ingredientes>
+        <calorias>400</calorias>
+        <procesoElaboracion>
+            <paso orden="1">Vamos a la receta de arroz con leche para ver cómo se hace, lo haremos igual, pero añadiendo el doble de azúcar</paso>
+            <paso orden="2">Una vez hecho el arroz, echamos una cucharada de miel a la crema y lo batimos bien con un robot o con una batidora hasta conseguir una crema. Reservamos y dejamos enfriar</paso>
+            <paso orden="3">Con una varillas subimos las nata a punto de nieve</paso>
+            <paso orden="4">Mezclamos la crema de arroz con la nata montada, con movimientos envolventes para que no se pierda el aire</paso>
+            <paso orden="5">Seguimos las instrucciones de cómo hacer helado con o sin heladera para mantecarlo</paso>
+        </procesoElaboracion>
+        <dificultad>Fácil</dificultad>
+        <tiempo unidad="horas">6</tiempo>
+        <elementosElaboracion>
+            <elemento>Batidora</elemento>
+            <elemento>Varillas</elemento>
+        </elementosElaboracion>
+        <origen>http://lacucharinamagica.com/2014/06/helado-de-arroz-con-leche-asturiano.html</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Suspiros de Pajares</nombre>
+        <tipoPlato>Postre</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="500" unidad="gramos">Mantequilla</ingrediente>
+            <ingrediente cantidad="200" unidad="gramos">Azúcar</ingrediente>
+            <ingrediente cantidad="600" unidad="gramos">Harina de trigo</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Huevo</ingrediente>
+            <ingrediente cantidad="1" unidad="pizca">Sal</ingrediente>
+        </ingredientes>
+        <procesoElaboracion>
+            <paso orden="1">Clarificamos 500 g de mantequilla que nos quedarán en unos 300 g y dejamos que se temple a temperatura ambiente</paso>
+            <paso orden="2">Mezclamos la mantequilla con el azúcar y la pizca de sal, hasta hacer una masa compacta</paso>
+            <paso orden="3">Añadimos el huevo y revolvemos bien todo</paso>
+            <paso orden="4">Poco a poco vamos añadiendo la harina hasta que se haga una masa blanda, pero no pegajosa, con textura parecida a la plastilina</paso>
+            <paso orden="5">Ponemos un papel film o vegetal sobre una superficie lisa, extendemos la mitad de la masa y por encima colocamos otro papel film o vegetal. Con un rollo de cocina estiramos hasta hacer un lámina de 0.5 cm de grosor. Reservamos en la nevera durante 10 minutos</paso>
+            <paso orden="6">Quitamos un papel y cortamos las galletas con cortadores o incluso con un vaso. Horneamos a 180ºC hasta que cojan color tostado</paso>
+            <paso orden="7">Una vez tostadas, sacamos del horno y las colocamos con mucho cuidado sobre una rejilla. Espolvoreamos con abundante azúcar y dejamos enfriar</paso>
+        </procesoElaboracion>
+        <dificultad>Fácil</dificultad>
+        <tiempo unidad="minutos">40</tiempo>
+        <elementosElaboracion>
+            <elemento>Papel film</elemento>
+            <elemento>Rollo de cocina</elemento>
+            <elemento>Vaso</elemento>
+            <elemento>Horno</elemento>
+        </elementosElaboracion>
+        <origen>http://lacucharinamagica.com/2015/02/suspiros-de-pajares-o-pajares.html</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Hummu de Fabes</nombre>
+        <tipoPlato>Entrante</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="200" unidad="gramos">Fabes secas</ingrediente>
+            <ingrediente cantidad="1/2" unidad="unidad">Cebolla</ingrediente>
+            <ingrediente cantidad="1/2" unidad="unidad">Puerro</ingrediente>
+            <ingrediente cantidad="3" unidad="unidades">Ajo</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Limón</ingrediente>
+            <ingrediente cantidad="1" unidad="cucharadita">Comino</ingrediente>
+            <ingrediente cantidad="1" unidad="cucharadita">Pimentón dulce</ingrediente>
+            <ingrediente cantidad="1" unidad="pizca">Canela</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Rama de cilantro</ingrediente>
+            <ingrediente cantidad="1" unidad="pizca">Sal</ingrediente>
+            <ingrediente cantidad="1" unidad="chorro">Aceite</ingrediente>
+        </ingredientes>
+        <calorias>450</calorias>
+        <procesoElaboracion>
+            <paso orden="1">Dejamos en remojo las fabes en agua fría con un chorro de aceite durante 8 horas</paso>
+            <paso orden="2">Tras el tiempo de remojo, ponemos las fabes a cocer con 1/2 cebolla y 1/2 puerro, un ajo y un poco de sal. En olla exprés 15 minutos. En olla normal 45 minutos</paso>
+            <paso orden="3">Escurrimos las fabes cocidas, quitamos la cebolla y el puerro, dejamos el ajo, y las ponemos a enfriar en la nevera</paso>
+            <paso orden="4">Ponemos las 4 cucharadas soperas de semillas de sésamo en un vaso de batidora, echamos 4 cucharadas soperas de aceite de oliva y una pizca de sal. Batimos hasta conseguir una crema</paso>
+            <paso orden="5">En un recipiente apto para batir o en el vaso de la Thermomix, ponemos todos los ingredientes: Las fabes, el tahini, el cilantro, el pimentón, el comino, los 2 ajos, la pizca de canela y el zumo de limón (colado). Batimos hasta que se haga una pasta cremosa. Salpimentamos y rectificamos de sal si fuera necesario</paso>
+            <paso orden="6">Servimos con un poco de aceite de oliva por encima, unas semillas de sésamo, tomatito cherry y unas hojas de cilantro</paso>
+        </procesoElaboracion>
+        <dificultad>Media</dificultad>
+        <tiempo unidad="horas">3</tiempo>
+        <elementosElaboracion>
+            <elemento>Olla</elemento>
+            <elemento>Batidora</elemento>
+        </elementosElaboracion>
+        <origen>http://lacucharinamagica.com/2014/06/hummus-de-fabes-2.html</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Verdinas con albóndigas de bacalao a la Vizcaína</nombre>
+        <tipoPlato>Segundo</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="500" unidad="gramos">Verdinas</ingrediente>
+            <ingrediente cantidad="800" unidad="gramos">Lomos de bacalao</ingrediente>
+            <ingrediente cantidad="2" unidad="unidades">Pimientos choriceros</ingrediente>
+            <ingrediente cantidad="4" unidad="unidades">Cebollas moradas</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Diente de Ajo</ingrediente>
+            <ingrediente cantidad="2" unidad="unidades">Yema de huevo</ingrediente>
+            <ingrediente cantidad="500" unidad="gramos">Harina de trigo</ingrediente>
+            <ingrediente cantidad="1" unidad="vaso">Caldo de carne</ingrediente>
+            <ingrediente cantidad="1" unidad="chorro">Aceite de oliva</ingrediente>
+            <ingrediente cantidad="1" unidad="pizca">Sal</ingrediente>
+        </ingredientes>
+        <calorias>340</calorias>
+        <procesoElaboracion>
+            <paso orden="1">Si optamos por bacalao en salazón, lo desalamos 48 horas antes, siguiendo las instrucciones de cómo desalar bacalao</paso>
+            <paso orden="2">Lavamos las verdinas y las ponemos en remojo unas 5 horas antes de la cocción</paso>
+            <paso orden="3">Una vez transcurrido el tiempo del remojo, las ponemos a hervir solo con el agua necesario para que queden cubiertas. Hervimos unos 10 minutos, espumando si es necesario</paso>
+            <paso orden="4">Cocemos el pimiento choricero 30 minutos. Retiramos la carne del pimiento y desechamos la piel y las semillas centrales. Reservamos</paso>
+            <paso orden="5">Desmigamos los lomos de bacalao ya desalados, retirando la piel y ponemos el pescado en un recipiente con el diente de ajo muy picado, el perejil y las yemas de huevo. Revolvemos bien todos los ingredientes y hacemos la forma de las albóndigas. Cubrimos con un poco de harina y freímos en aceite de oliva</paso>
+            <paso orden="6">Para hacer la salsa vizcaína, picamos las cebollas moradas y las ponemos a pochar en una sartén con un buen chorro de aceite</paso>
+            <paso orden="7">Una vez pochada la cebolla, añadimos la carne del pimiento choricero y la cucharina de harina y revolvemos</paso>
+            <paso orden="8">Vertemos el caldo de carne y la salsa vizcaína a las verdinas, probamos el punto de sal y cocinamos durante 2 horas a fuego lento</paso>
+            <paso orden="9">Cuando las verdinas estén en su punto, incorporamos las albóndigas y dejamos que se mezclen bien los sabores unos 10 minutos, a fuego lento. Apagamos y dejamos posar durante al menos, 30 minutos</paso>
+        </procesoElaboracion>
+        <dificultad>Difícil</dificultad>
+        <tiempo unidad="horas">5</tiempo>
+        <elementosElaboracion>
+            <elemento>Olla</elemento>
+            <elemento>Sartén</elemento>
+        </elementosElaboracion>
+        <origen>http://lacucharinamagica.com/2017/01/verdinas-con-albondigas-de-bacalao-a-la-vizcaina.html</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Salsa de quesos asturianos: La peral y Gamonéu</nombre>
+        <tipoPlato>Entrante</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="200" unidad="gramos">Nata 35%</ingrediente>
+            <ingrediente cantidad="100" unidad="gramos">Queso La Peral</ingrediente>
+            <ingrediente cantidad="30" unidad="gramos">Queso Gamonéu</ingrediente>
+            <ingrediente cantidad="1" unidad="chorro">Coñac</ingrediente>
+            <ingrediente cantidad="1" unidad="pizca">Sal</ingrediente>
+        </ingredientes>
+        <procesoElaboracion>
+            <paso orden="1">Ponemos a calentar la nata a fuego lento</paso>            
+            <paso orden="2">Cuando comience a hervir añadimos el queso en trozos y coñac</paso>
+            <paso orden="3">Esperamos a que se deshaga bien el queso y comience a espesar</paso>
+            <paso orden="4">Añadimos la pizca de sal y retiramos del fuego</paso>
+        </procesoElaboracion>
+        <dificultad>Fácil</dificultad>
+        <tiempo unidad="minutos">20</tiempo>
+        <elementosElaboracion>
+            <elemento>Olla</elemento>
+        </elementosElaboracion>
+        <origen>http://lacucharinamagica.com/2014/05/salsa-de-quesos-asturianos-la-peral-y-gamoneu.html</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Salmón ahumado</nombre>
+        <tipoPlato>Segundo</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="1" unidad="unidad">Lomo de salmón</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Preparado de sal para ahumar</ingrediente>
+            <ingrediente cantidad="1" unidad="pizca">Pimienta</ingrediente>
+            <ingrediente cantidad="1" unidad="pizca">Perejil</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Limón</ingrediente>
+        </ingredientes>
+        <calorias>320</calorias>
+        <procesoElaboracion>
+            <paso orden="1">Lavamos bien la pieza de salmón y la secamos con un paño de cocina</paso>
+            <paso orden="2">Ponemos una capa de sal ahumada sobre una fuente, colocamos el salmón con la piel hacia abajo y cubrios con abundante sal</paso>
+            <paso orden="3">Decoramos la sal con granos de sal, hojas de perejil o cilantro y rodajas de limón</paso>
+            <paso orden="4">Envolvemos con papel transparente film y cerramos bien para que el salmón quede apretado</paso>
+            <paso orden="5">Dejamos en la nevera para que repose 24 horas</paso>
+            <paso orden="6">A las 24 horas, lavamos el salmón, lo secamos y lo volvemos a introducir en la nevera durante otras 24 horas</paso>
+            <paso orden="7">Transcurrido este tiempo el salmón estará listo para ser consumido</paso>
+        </procesoElaboracion>
+        <dificultad>Fácil</dificultad>
+        <tiempo unidad="horas">2</tiempo>
+        <elementosElaboracion>
+            <elemento>Paño de cocina</elemento>
+            <elemento>Fuente</elemento>
+            <elemento>Film transparente</elemento>
+        </elementosElaboracion>
+        <origen>Receta de mi abuela</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Nuggets de pollo</nombre>
+        <tipoPlato>Entrante</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="500" unidad="gramos">Pechuga de pollo</ingrediente>
+            <ingrediente cantidad="1" unidad="pizca">Sal</ingrediente>
+            <ingrediente cantidad="2" unidad="unidades">Huevo</ingrediente>
+            <ingrediente cantidad="4" unidad="cucharadas">Harina de trigo</ingrediente>
+            <ingrediente cantidad="4" unidad="cucharadas">Pan rallado</ingrediente>
+        </ingredientes>
+        <procesoElaboracion>
+            <paso orden="1">Lavamos bien el pollo y lo cortamos en trozos pequeños</paso>
+            <paso orden="2">Le echamos la sal y lo trituramos</paso>
+            <paso orden="3">Batimos los huevos</paso>
+            <paso orden="4">Mezclamos la harina con el pan rallado</paso>
+            <paso orden="5">Hacemos bolas con la masa de pollo</paso>
+            <paso orden="6">Vamos pasando las bolas por la mezcla de huevos</paso>
+            <paso orden="7">Después las pasamos por la mezcla de harina y pan rallado</paso>
+            <paso orden="8">Por último las ponemos a freir</paso>
+        </procesoElaboracion>
+        <dificultad>Fácil</dificultad>
+        <tiempo unidad="minutos">25</tiempo>
+        <elementosElaboracion>
+            <elemento>Freidora</elemento>
+            <elemento>Trituradora</elemento>
+        </elementosElaboracion>
+        <origen>Receta propia</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Sopa de tomillo</nombre>
+        <tipoPlato>Primero</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="1" unidad="unidad">Cebolla</ingrediente>
+            <ingrediente cantidad="1" unidad="cucharada">Tomillo</ingrediente>
+            <ingrediente cantidad="2" unidad="litros">Agua</ingrediente>
+        </ingredientes>
+        <procesoElaboracion>
+            <paso orden="1">Cortar la cebolla en trozos pequeños</paso>
+            <paso orden="2">Mezclar todos los ingredientes en el olla y ponerla a fuego lento</paso>
+            <paso orden="3">Dejarla 15 minutos</paso>
+        </procesoElaboracion>
+        <dificultad>Fácil</dificultad>
+        <tiempo unidad="minutos">20</tiempo>
+        <elementosElaboracion>
+            <elemento>Olla</elemento>
+        </elementosElaboracion>
+        <origen>Receta de mi tía Luisa</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Sopa de tomate</nombre>
+        <tipoPlato>Primero</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="10" unidad="unidades">Tomate</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Puerro</ingrediente>
+            <ingrediente cantidad="1" unidad="unidad">Cebolla</ingrediente>
+            <ingrediente cantidad="2" unidad="litros">Agua</ingrediente>
+        </ingredientes>
+        <procesoElaboracion>
+            <paso orden="1">Cortar la cebolla en trozos pequeños</paso>
+            <paso orden="2">Mezclar todos los ingredientes en el olla y ponerla a fuego lento</paso>
+            <paso orden="3">Dejarla 15 minutos</paso>
+        </procesoElaboracion>
+        <dificultad>Fácil</dificultad>
+        <tiempo unidad="minutos">20</tiempo>
+        <elementosElaboracion>
+            <elemento>Olla</elemento>
+        </elementosElaboracion>
+        <origen>Receta de mi tía Luisa</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Pan integral</nombre>
+        <tipoPlato>Entrante</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="500" unidad="gramos">Harina de trigo integral</ingrediente>
+            <ingrediente cantidad="350" unidad="ml">Agua</ingrediente>
+            <ingrediente cantidad="1" unidad="cucharadita">Sal</ingrediente>
+            <ingrediente cantidad="25" unidad="gramos">Levadura fresca</ingrediente>
+        </ingredientes>
+        <procesoElaboracion>
+            <paso orden="1">Mezclar todos los ingredientes</paso>
+            <paso orden="2">Poner en la panificadora 6 horas</paso>
+        </procesoElaboracion>
+        <dificultad>Fácil</dificultad>
+        <tiempo unidad="horas">6</tiempo>
+        <elementosElaboracion>
+            <elemento>Panificadora</elemento>
+        </elementosElaboracion>
+        <origen>Receta de mi tía Yolis</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Hamburguesa de batata</nombre>
+        <tipoPlato>Segundo</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="2" unidad="unidades">Batata</ingrediente>
+            <ingrediente cantidad="3" unidad="unidades">Ajo</ingrediente>
+        </ingredientes>
+        <procesoElaboracion>
+            <paso orden="1">Cocinamos la batata</paso>
+            <paso orden="2">Trituramos el ajo junto a las batatas</paso>
+            <paso orden="3">Lo mezclamos y ponemos en la sarten a fuego medio</paso>
+        </procesoElaboracion>
+        <dificultad>Media</dificultad>
+        <tiempo unidad="minutos">45</tiempo>
+        <elementosElaboracion>
+            <elemento>Sartén</elemento>
+        </elementosElaboracion>
+        <origen>Libro de cocina vegana</origen>
+    </receta>
+    
+    <receta>
+        <nombre>Hamburguesa de espinacas</nombre>
+        <tipoPlato>Segundo</tipoPlato>
+        <ingredientes>
+            <ingrediente cantidad="500" unidad="gramos">Espinacas</ingrediente>
+            <ingrediente cantidad="3" unidad="unidades">Ajo</ingrediente>
+        </ingredientes>
+        <procesoElaboracion>
+            <paso orden="1">Hervimos las espinacas</paso>
+            <paso orden="2">Trituramos el ajo junto a las espinacas</paso>
+            <paso orden="3">Lo mezclamos y ponemos en la sarten a fuego medio</paso>
+        </procesoElaboracion>
+        <dificultad>Media</dificultad>
+        <tiempo unidad="minutos">45</tiempo>
+        <elementosElaboracion>
+            <elemento>Sartén</elemento>
+        </elementosElaboracion>
+        <origen>Libro de cocina vegana</origen>
+    </receta>
+
+</recetas>
