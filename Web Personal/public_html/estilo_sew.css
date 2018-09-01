@@ -1,0 +1,10 @@
+
+/* a=0 b=0 c=1 -> Especificidad = 1 */
+ul{
+    list-style-image: url(https://unioviedo-my.sharepoint.com/personal/uo250707_uniovi_es/_layouts/15/guestaccess.aspx?docid=07b5be312495a49fc90d56ba4e1aee840&authkey=AYfeMpJqx0AtFDpyjmklZiE&e=d309e24ea73f41ba800748a5aa487e86);
+}
+
+/* a=0 b=0 c=2 -> Especificidad = 2 */
+.fichero{
+    list-style-image: url(https://unioviedo-my.sharepoint.com/personal/uo250707_uniovi_es/_layouts/15/guestaccess.aspx?docid=087017345d8f24c7ba116ab7a4fdee0fc&authkey=Ac9IP1xS3YdXeEuE-Bu41ps&e=086d46145264464e8f86f344da93f0ef);
+}
