@@ -1,1 +1,0 @@
-Los validadores de HTML5 y de CSS no funcionan cuando se abre la página en local. Es necesario que esté subida a un servidor web.
