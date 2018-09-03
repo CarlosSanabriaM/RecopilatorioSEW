@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="author" content="Carlos Sanabria Miranda"/>
+    <title>El tiempo - XML</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="Ejercicio3.css"/>
+    <script src="Ejercicio3.js"></script>
+</head>
+<body onload="meteo.inicializar(); meteo.ocultarSeccionTiempo();">
+    <header><h1>El tiempo</h1></header>
+    
+    <main>
+        <section>
+            <h2>Seleccione una ciudad</h2>
+            <select name="ciudad">
+                <option value="Oviedo">Oviedo</option>
+                <option value="Gijón">Gijón</option>
+                <option value="Mieres">Mieres</option>
+                <option value="Langreo">Langreo</option>
+                <option value="Pola de siero">Pola de siero</option>
+            </select>
+
+            <button onclick = "meteo.verTiempo()">Consultar tiempo</button>
+            
+            <p id="mensajeError"></p>
+        </section>
+        
+        
+        <div id="seccionTiempo">
+            <div id="cabeceraTiempo">
+
+                <div id="divIconoTiempo"></div>
+            </div>
+            <p id="ultimaMedida"></p>
+            <div id="datos">
+                <div id="datosPrincipales">
+                    <div id="divTemperaturaTiempo">
+                        <div id="divTemperatura"><span id="gradosTemperatura"></span></div>
+                    </div>
+                        
+                    <p id="descripcion"></p>
+                    
+                    <div id="datosExtraTemperatura">
+                        <div id="divTabla">
+                            <table>
+                                <tr>
+                                    <th>Min</th><th>Máx</th>
+                                </tr>
+                                <tr>
+                                    <td id="gradosMin"></td><td id="gradosMax"></td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div id="divIconoTemperatura">
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="restoDatos"></div> 
+            </div>
+
+            <div id="estacionMeteorologica">
+
+                <div id="coordenadasEstacion"></div>
+            </div>
+
+        </div>
+    </main>
+    
+    <footer>
+        <p lang="en" id="copyright">Copyright © 2017 Carlos Sanabria Miranda</p>
+        <p>Esta página web ha sido validada satisfactoriamente:</p>
+        <a href="https://validator.w3.org/check?uri=referer">
+            <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
+                 alt="HTML5 Válido" title="HTML5 Válido" />
+        </a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer ">
+            <img src=" http://jigsaw.w3.org/css-validator/images/vcss"
+                 alt="¡CSS Válido!" />
+        </a>
+    </footer>
+</body>
+</html>

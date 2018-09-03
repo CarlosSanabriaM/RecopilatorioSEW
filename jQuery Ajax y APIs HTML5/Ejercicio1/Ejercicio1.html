@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="Carlos Sanabria Miranda"/>
+    <title>Ejercicio 1</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="Ejercicio1.js"></script>
+    <link rel="stylesheet" href="Ejercicio1.css"/>
+</head>
+<body>
+    <h1>jQuery: Ejercicio 1 - Inventario de becarios</h1>
+    <h2 id="titulo2">Se van a repasar varias características de jQuery (con la ayuda de los datos del inventario de becaría)</h2>
+    <h3 id="titulo3">Como estas: ocultar, mostrar, modificar, añadir, eliminar, recorrer</h3>
+    
+    <main>
+        <section>
+            <h2 id="inventario">Inventario becarios</h2>
+            <p id="introduccion">A continuación se muestra una tabla con datos del inventario del aula de becaría</p>
+            <p>Dicha tabla actua de forma parecida a una tabla "Excel"</p>
+
+            <table>
+                    <tr>
+                    <th>Número</th><th>Nombre</th><th>Cantidad</th><th>Precio</th><th>Descripción</th>
+                    </tr>
+                    <tr>
+                        <td>1</td><td>Ratón</td><td>10</td><td>20</td><td>Alta sensibilidad</td>
+                    </tr>
+                    <tr>
+                        <td>2</td><td>Altavoz</td><td>15</td><td>45</td><td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td>3</td><td>Hard Drive</td><td>2</td><td>230</td><td>3 Tb</td>
+                    </tr>
+                    <tr>
+                        <td>4</td><td>RAM</td><td>4</td><td>180</td><td>&nbsp;</td>
+                    </tr>  
+                    <tr>
+                        <td>5</td><td>Teclado</td><td>10</td><td>24</td><td>Inalámbrico</td>
+                    </tr>
+            </table>
+
+            <p id="cantidad">Cantidad total: </p>
+            <p id="precio">Precio total: </p>
+
+            <p><a href="https://www.pccomponentes.com/">Pagina para comprar las cosas</a></p>
+        </section>
+
+        <section>
+            <h2>Tabla</h2>
+            <div>
+                <h3>Ocultar</h3>
+                <input type="button" id="botonOcultarTabla" value=" Ocultar toda la tabla " />
+                <input type="button" id="botonOcultarFilas" value=" Ocultar filas con elementos vacios " />
+            </div>
+            <div>
+                <h3>Mostrar</h3>
+                <input type="button" id="botonMostrarTabla" value=" Mostrar toda la tabla " />
+                <input type="button" id="botonMostrarFilas" value=" Mostrar todas las filas" />
+            </div>
+            <div>
+                <h3>Eliminar</h3>
+                <input type="button" id="botonEliminarFila" value=" Eliminar fila " />
+                <input type="button" id="botonEliminarTabla" value=" Eliminar tabla " />
+            </div>
+            <div>
+                <h3>Añadir fila:</h3>
+                <div>
+                    <label>Nombre:<input type="text" name="nombre" id="nombreAñadir"></label>
+                    <label>Cantidad:<input type="text" name="cantidad" id="cantidadAñadir"></label>
+                    <label>Precio:<input type="text" name="precio" id="precioAñadir"></label>
+                    <label>Descripción:<input type="text" name="descripcion" id="descripcionAñadir"></label>
+                    <input type="button" id="botonAñadirFila" value=" Añadir fila " />
+                </div>
+                <p id="mensajeErrorAñadirFila" class="mensajeError"></p>
+            </div>
+            <div>
+                <h3>Modificar fila:</h3>
+                <div>
+                    <label>Número:<input type="text" name="numero" id="numeroModificar"></label>
+                    <label>Nombre:<input type="text" name="nombre" id="nombreModificar"></label>
+                    <label>Cantidad:<input type="text" name="cantidad" id="cantidadModificar"></label>
+                    <label>Precio:<input type="text" name="precio" id="precioModificar"></label>
+                    <label>Descripción:<input type="text" name="descripcion" id="descripcionModificar"></label>
+                    <input type="button" id="botonModificarFila" value=" Modificar fila " />
+                </div>
+                <p id="mensajeErrorModificarFila" class="mensajeError"></p>
+            </div>
+
+            <div>
+                <input type="button" id="botonSumarCantidad" value=" Sumar cantidad " />
+            </div>
+        </section>
+        
+        <section>
+            <h2>Títulos, párrafos, listas y otros</h2>
+            <div>
+                <h3>Ocultar</h3>
+                <input type="button" id="botonOcultarh1" value=" Ocultar título 1 " />
+                <input type="button" id="botonOcultarh2" value=" Ocultar títulos 2 " />
+                <input type="button" id="botonOcultarh3" value=" Ocultar títulos 3 " />
+                <input type="button" id="botonOcultarParrafos" value=" Ocultar párrafos " />
+                <input type="button" id="botonOcultarListas" value=" Ocultar listas " />
+                <input type="button" id="botonOcultarCamposTexto" value=" Ocultar campos de texto " />
+                <input type="button" id="botonOcultarBotones" value=" Ocultar botones " />
+            </div>
+            <div>
+                <h3>Mostrar</h3>
+                <input type="button" id="botonMostrarh1" value=" Mostrar título 1 " />
+                <input type="button" id="botonMostrarh2" value=" Mostrar títulos 2 " />
+                <input type="button" id="botonMostrarh3" value=" Mostrar títulos 3 " />
+                <input type="button" id="botonMostrarParrafos" value=" Mostrar párrafos " />
+                <input type="button" id="botonMostrarListas" value=" Mostrar listas " />
+                <input type="button" id="botonMostrarCamposTexto" value=" Mostrar campos de texto " />
+                <input type="button" id="botonMostrarBotones" value=" Mostrar botones " />
+            </div>
+            <div>
+                <h3>Eliminar</h3>
+                <input type="button" id="botonEliminarh1" value=" Eliminar título 1 " />
+                <input type="button" id="botonEliminarh2" value=" Eliminar títulos 2 " />
+                <input type="button" id="botonEliminarh3" value=" Eliminar títulos 3 " />
+                <input type="button" id="botonEliminarParrafos" value=" Eliminar párrafos " />
+                <input type="button" id="botonEliminarListas" value=" Eliminar listas " />
+                <input type="button" id="botonEliminarCamposTexto" value=" Eliminar campos de texto " />
+                <input type="button" id="botonEliminarBotones" value=" Eliminar botones " />
+            </div>
+        </section>
+
+
+        <section id="informacion">
+            <h2>Información</h2>
+            <div>
+                <input type="button" id="botonCambiarDatosABecarios" value=" Cambiar la información del documento a: Inventario becarios" />
+                <input type="button" id="botonCambiarDatosAVideojuegos" value=" Cambiar la información del documento a: Inventario videojuegos " />
+                <input type="button" id="botonRecorrerArbol" value=" Recorrer los elementos y sacar información " />
+                <input type="button" id="botonEliminarTodo" value=" Eliminar toda la información del documento " />
+            </div>
+        </section>
+    </main>
+    
+    
+    <footer>
+        <p lang="en" id="copyright">Copyright © 2017 Carlos Sanabria Miranda</p>
+        <p>Esta página web ha sido validada satisfactoriamente:</p>
+        <a href="https://validator.w3.org/check?uri=referer">
+            <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
+                 alt="HTML5 Válido" title="HTML5 Válido" />
+        </a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer ">
+            <img src=" http://jigsaw.w3.org/css-validator/images/vcss"
+                 alt="¡CSS Válido!" />
+        </a>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,62 @@
+html, body, #mapa-canvas {
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+#panel {
+    position: absolute;
+    left: 50%;
+    transform: translate(-5%, 0);
+    top: 1%;
+    z-index: 5;
+    background-color: #fff;
+    padding: 0%;
+    border: thin solid #999;
+}
+
+input[type="button"]{
+    color: rgb(102,102,102);
+    display: block;
+    width: 100%;
+}
+
+input[type="button"]:hover{
+    background-color: rgb(235,235,235);
+}
+
+#error {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    top: 15%;
+    z-index: 5;
+    background-color: #fff;
+    padding: 0.5%;
+    border: thin solid #999;
+    color: black;
+    font-weight: bold;
+    display: none;
+    text-align: center;
+}
+
+/* a=0 b=0 c=1 -> Especificidad = 1 */
+footer{
+    text-align: center;
+    line-height: 1em;
+}
+
+footer img[src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"]{
+    height: 64px;
+    width: 63px; 
+}
+
+/* a=0 b=1 c=3 -> Especificidad = 13 */
+footer img[src="http://jigsaw.w3.org/css-validator/check/referer"]{
+    height: 31px;
+    width: 88px; 
+}
+
+#copyright{
+    font-family: cursive;
+}
