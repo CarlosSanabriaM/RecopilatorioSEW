@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Carlos Sanabria Miranda"/>
+    <title>Calculadora científica</title>
+    <link rel="stylesheet" href="CalculadoraCientifica.css"/>
+    <script src="../Ejercicio3/CalculadoraBasica.js"></script>
+    <script src="CalculadoraCientifica.js"></script>
+</head>
+<body>
+    <header><h1>Calculadora científica</h1></header>
+    
+    <div id="calculadora">
+        
+        <div>
+            <input type="text" name="display" id="display" readonly>
+        </div>
+        
+        <div>
+            <input type="button" value="sin" onclick="calculadoraCientifica.sin()">
+            <input type="button" value="cos" onclick="calculadoraCientifica.cos()">
+            <input type="button" value="tan" onclick="calculadoraCientifica.tan()">
+        </div>
+        <div>
+            <input type="button" value="e^x" onclick="calculadoraCientifica.eElevadoAX()">
+            <input type="button" value="x^2" onclick="calculadoraCientifica.cuadrado()">
+            <input type="button" value="x^3" onclick="calculadoraCientifica.cubo()">
+            <input type="button" value="10^x" onclick="calculadoraCientifica.diezElevadoAX()">
+            <input type="button" value="π" onclick="calculadoraCientifica.pi()">
+            <input type="button" value="e" onclick="calculadoraCientifica.e()">
+        </div>
+        <div>
+            <input type="button" value="1/x" onclick="calculadoraCientifica.unoEntreX()">
+            <input type="button" value="√x" onclick="calculadoraCientifica.raizCuadrada()">
+            <input type="button" value="3√x" onclick="calculadoraCientifica.raizCubica()">
+            <input type="button" value="2^x" onclick="calculadoraCientifica.dosElevadoAX()">
+            <input type="button" value="log" onclick="calculadoraCientifica.log()">
+            <input type="button" value="ln" onclick="calculadoraCientifica.ln()">
+        </div>
+        <div>
+            <input type="button" value="&lt;-" onclick="calculadoraCientifica.retroceso()">
+            <input type="button" value="C" onclick="calculadoraCientifica.clearDisplay()">
+            <input type="button" value="(" onclick="calculadoraCientifica.addDisplay('(')">
+            <input type="button" value=")" onclick="calculadoraCientifica.addDisplay(')')">
+            <input type="button" value="/" onclick="calculadoraCientifica.addDisplay('/')">
+        </div>
+        <div>
+            <input type="button" value="n!" onclick="calculadoraCientifica.factorial()">
+            <input type="button" value="M+" onclick="calculadoraCientifica.memoriaMas()">
+            <input type="button" value="7" onclick="calculadoraCientifica.addDisplay('7')" class="digito">
+            <input type="button" value="8" onclick="calculadoraCientifica.addDisplay('8')" class="digito">
+            <input type="button" value="9" onclick="calculadoraCientifica.addDisplay('9')" class="digito">
+            <input type="button" value="*" onclick="calculadoraCientifica.addDisplay('*')">
+        </div>
+        <div>
+            <input type="button" value="%" onclick="calculadoraCientifica.porcentaje()">
+            <input type="button" value="M-" onclick="calculadoraCientifica.memoriaMenos()">
+            <input type="button" value="4" onclick="calculadoraCientifica.addDisplay('4')" class="digito">
+            <input type="button" value="5" onclick="calculadoraCientifica.addDisplay('5')" class="digito">
+            <input type="button" value="6" onclick="calculadoraCientifica.addDisplay('6')" class="digito">
+            <input type="button" value="-" onclick="calculadoraCientifica.addDisplay('-')">
+        </div>
+        <div>
+            <input type="button" value="+/-" onclick="calculadoraCientifica.masMenos()">
+            <input type="button" value="MR" onclick="calculadoraCientifica.memoriaRecall()">
+            <input type="button" value="1" onclick="calculadoraCientifica.addDisplay('1')" class="digito">
+            <input type="button" value="2" onclick="calculadoraCientifica.addDisplay('2')" class="digito">
+            <input type="button" value="3" onclick="calculadoraCientifica.addDisplay('3')" class="digito">
+            <input type="button" value="+" onclick="calculadoraCientifica.addDisplay('+')">
+        </div>
+        <div>
+            <input type="button" value="Abs" onclick="calculadoraCientifica.abs()">
+            <input type="button" value="MC" onclick="calculadoraCientifica.memoriaClear()">
+            <input type="button" value="0" onclick="calculadoraCientifica.addDisplay('0')" class="digito">
+            <input type="button" value="." onclick="calculadoraCientifica.addDisplay('.')" class="digito">
+            <input type="button" value="=" onclick="calculadoraCientifica.igual()">
+        </div>
+    </div>
+    
+    <footer>
+        <p lang="en" id="copyright">Copyright © 2017 Carlos Sanabria Miranda</p>
+        <p>Esta página web ha sido validada satisfactoriamente:</p>
+        <a href="https://validator.w3.org/check?uri=referer">
+            <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
+                 alt="HTML5 Válido" title="HTML5 Válido" />
+        </a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer ">
+            <img src=" http://jigsaw.w3.org/css-validator/images/vcss"
+                 alt="¡CSS Válido!" />
+        </a>
+    </footer>
+</body>
+</html>

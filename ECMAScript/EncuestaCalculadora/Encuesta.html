@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Carlos Sanabria Miranda"/>
+    <title>Encuesta | Calculadora científica</title>
+    <link rel="stylesheet" href="Encuesta.css"/>
+    <script src="Encuesta.js"></script>
+</head>
+<body>
+    <header><h1 id="arriba">Encuesta sobre la calculadora científica</h1></header>
+    
+    <main>
+    
+        <form name="encuestaF" autocomplete="off" action="mailto:uo250707@uniovi.es?subject=Encuesta%20calculadora%20científica" method="post" onSubmit="encuesta.validar()">
+            
+            <fieldset name="datos_usuario">
+                <legend>Datos del encuestado</legend>
+                
+                <p>
+                    Nombre:&nbsp;&nbsp;<input type="text" name="nombre" placeholder="Introduce tu nombre" required>
+                    <span id="mensajeErrorNombre" class="mensajeError"></span>
+                </p>
+                <p>
+                    Apellidos:&nbsp;&nbsp;<input type="text" name="apellidos" placeholder="Introduce tus apellidos" required>
+                    <span id="mensajeErrorApellidos" class="mensajeError"></span>
+                </p>
+                
+                <p>
+                    Fecha de nacimiento:&nbsp;&nbsp;<input type="date" name="fechaNacimiento" id="fechaNacimiento" required>
+                    <span id="mensajeErrorFechaNacimiento" class="mensajeError"></span>
+                </p>                
+                <p>Sexo</p>
+                <input name="sexo" type="radio" value="hombre" id="hombre" checked><label for="hombre">Hombre</label>
+                <input name="sexo" type="radio" value="mujer" id="mujer"><label for="mujer">Mujer</label>
+                <p>
+                    DNI:&nbsp;&nbsp;<input type="text" name="dni" placeholder="Introduce tu dni" required>
+                    <span id="mensajeErrorDni" class="mensajeError"></span>
+                </p>
+                <p>
+                    E-mail:&nbsp;&nbsp;<input type="email" name="email" placeholder="Introduce tu email" required>
+                    <span id="mensajeErrorEmail" class="mensajeError"></span>
+                </p>
+            </fieldset>
+            
+            <fieldset name="dispositivos">
+                <legend>Dispositivos</legend>
+                <p>¿En qué dispositivos ha probado la calculadora?</p>
+                
+                <p><input type="checkbox" name="dipositivos" value="ordenador" id="ordenador"><label for="ordenador">Ordenador</label></p>
+                <p><input type="checkbox" name="dipositivos" value="movil" id="movil"><label for="movil">Móvil</label></p>
+                <p><input type="checkbox" name="dipositivos" value="tablet" id="tablet"><label for="tablet">Tablet</label></p>
+                
+                <span id="mensajeErrorDispositivos" class="mensajeError"></span>
+            </fieldset>       
+            
+            <fieldset name="funcion_mas_util">
+                <legend>Función más útil</legend>
+                <p>¿Cuál es la función de la calculadora que le resulta más útil?</p>
+                
+                <select name="funcionMasUtil">
+                    <option value="">Seleccione una función</option>
+                    <optgroup label="Trigonométricas">
+                        <option value="sin">sin</option>
+                        <option value="cos">cos</option>
+                        <option value="tan">tan</option>
+                    </optgroup>
+                    <optgroup label="Potencias">
+                        <option value="ex">e^x</option>
+                        <option value="x2">x^2</option>
+                        <option value="x3">x^3</option>
+                        <option value="10x">10^x</option>
+                        <option value="2x">2^x</option>
+                    </optgroup>
+                    <optgroup label="Raíces">
+                        <option value="v2">√2</option>
+                        <option value="3v2">3√2</option>
+                    </optgroup>
+                    <optgroup label="Inversa">
+                        <option value="1divx">1/x</option>
+                    </optgroup>
+                    <optgroup label="Logarítmicas">
+                        <option value="log">log</option>
+                        <option value="ln">ln</option>
+                    </optgroup>
+                    <optgroup label="Constantes">
+                        <option value="pi">π</option>
+                        <option value="e">e</option>
+                    </optgroup>
+                    <optgroup label="Otros">
+                        <option value="factorial">n!</option>
+                        <option value="porcentaje">%</option>
+                        <option value="masMenos">+/-</option>
+                        <option value="abs">Abs</option>
+                    </optgroup>
+                </select>
+                
+                <span id="mensajeErrorFuncionMasUtil" class="mensajeError"></span>
+            </fieldset> 
+            
+            <fieldset name="funciones_a_quitar">
+                <legend>Funciones a quitar</legend>
+                
+                <p>¿Cuál de las siguientes categorías de funciones quitarías?</p>
+                
+                <p><input name="funcion_a_quitar" type="radio" value="trigonometricas" id="trigonometricas" onchange="encuesta.selOtro()"><label for="trigonometricas">Trigonométricas</label></p>
+                <p><input name="funcion_a_quitar" type="radio" value="potencias" id="potencias" onchange="encuesta.selOtro()"><label for="potencias">Potencias</label></p>
+                <p><input name="funcion_a_quitar" type="radio" value="raices" id="raices" onchange="encuesta.selOtro()"><label for="raices">Raíces</label></p>
+                <p><input name="funcion_a_quitar" type="radio" value="logaritmicas" id="logaritmicas" onchange="encuesta.selOtro()"><label for="logaritmicas">Logarítmicas</label></p>
+                <p>
+                    <input name="funcion_a_quitar" type="radio" value="otras" id="otro" onchange="encuesta.selOtro()"><label for="otro">Otras</label>
+
+                    <input type="text" name="valOtro" id="valOtro" onfocus="encuesta.mostrarTextoOtro()" onblur="encuesta.ocultarTextoOtro()">
+                    <span id="textoOtro">&nbsp;&nbsp;Indicar cúal</span>
+                </p>
+                <p><input name="funcion_a_quitar" type="radio" value="ninguna" id="ninguna" onchange="encuesta.selOtro()"><label for="ninguna">Ninguna</label></p>
+                
+                <span id="mensajeErrorFuncionesAQuitar" class="mensajeError"></span>
+                <span id="mensajeErrorOtros" class="mensajeError"></span>
+            </fieldset>
+            
+            <fieldset name="valoracion">
+                <legend>Valoración final</legend>
+                
+                <p>Indique una puntuación (del 1 al 10) de los siguientes aspectos sobre la calculadora:</p>
+                
+                <p>Funcionamiento:</p>
+                <p>
+                    <label>1<input name="funcionamiento" type="radio" value="1"></label>
+                    <label>2<input name="funcionamiento" type="radio" value="2"></label>
+                    <label>3<input name="funcionamiento" type="radio" value="3"></label>
+                    <label>4<input name="funcionamiento" type="radio" value="4"></label>
+                    <label>5<input name="funcionamiento" type="radio" value="5"></label>
+                    <label>6<input name="funcionamiento" type="radio" value="6"></label>
+                    <label>7<input name="funcionamiento" type="radio" value="7"></label>
+                    <label>8<input name="funcionamiento" type="radio" value="8"></label>
+                    <label>9<input name="funcionamiento" type="radio" value="9"></label>
+                    <label>10<input name="funcionamiento" type="radio" value="10"></label>
+                </p>
+                <p>Facilidad de uso:</p>
+                <p>
+                    <label>1<input name="facilidad_uso" type="radio" value="1"></label>
+                    <label>2<input name="facilidad_uso" type="radio" value="2"></label>
+                    <label>3<input name="facilidad_uso" type="radio" value="3"></label>
+                    <label>4<input name="facilidad_uso" type="radio" value="4"></label>
+                    <label>5<input name="facilidad_uso" type="radio" value="5"></label>
+                    <label>6<input name="facilidad_uso" type="radio" value="6"></label>
+                    <label>7<input name="facilidad_uso" type="radio" value="7"></label>
+                    <label>8<input name="facilidad_uso" type="radio" value="8"></label>
+                    <label>9<input name="facilidad_uso" type="radio" value="9"></label>
+                    <label>10<input name="facilidad_uso" type="radio" value="10"></label>
+                </p>
+                <p>Utilidad:</p>
+                <p>
+                    <label>1<input name="utilidad" type="radio" value="1"></label>
+                    <label>2<input name="utilidad" type="radio" value="2"></label>
+                    <label>3<input name="utilidad" type="radio" value="3"></label>
+                    <label>4<input name="utilidad" type="radio" value="4"></label>
+                    <label>5<input name="utilidad" type="radio" value="5"></label>
+                    <label>6<input name="utilidad" type="radio" value="6"></label>
+                    <label>7<input name="utilidad" type="radio" value="7"></label>
+                    <label>8<input name="utilidad" type="radio" value="8"></label>
+                    <label>9<input name="utilidad" type="radio" value="9"></label>
+                    <label>10<input name="utilidad" type="radio" value="10"></label>
+                </p>
+                <p>Diseño gráfico:</p>
+                <p>
+                    <label>1<input name="disenio_grafico" type="radio" value="1"></label>
+                    <label>2<input name="disenio_grafico" type="radio" value="2"></label>
+                    <label>3<input name="disenio_grafico" type="radio" value="3"></label>
+                    <label>4<input name="disenio_grafico" type="radio" value="4"></label>
+                    <label>5<input name="disenio_grafico" type="radio" value="5"></label>
+                    <label>6<input name="disenio_grafico" type="radio" value="6"></label>
+                    <label>7<input name="disenio_grafico" type="radio" value="7"></label>
+                    <label>8<input name="disenio_grafico" type="radio" value="8"></label>
+                    <label>9<input name="disenio_grafico" type="radio" value="9"></label>
+                    <label>10<input name="disenio_grafico" type="radio" value="10"></label>
+                </p>
+                
+                <span id="mensajeErrorValoracionFinal" class="mensajeError"></span>
+                <p id="notaMedia"></p>
+            </fieldset>
+            
+            <fieldset name="sugerencias">
+                <legend>Sugerencias</legend>
+                <p>¿Hay algo que cambiarías, añadirías o eliminarías?</p>
+                <textarea name="sugerencias" rows="6" placeholder="Introduce aquí la sugerencia..."></textarea>
+            </fieldset>
+            
+            <div id="botones">
+                <p>
+                    <input type="submit" value="Enviar información">
+                    <input type="reset" value="Borrar información" onclick="encuesta.quitarMensajes()">
+                </p>
+                <p id="mensajeErrorFinal" class="mensajeError"></p>
+            </div>
+        </form>
+    
+    </main>
+    
+    <footer>
+        <a href="#arriba" id="volverArriba">Volver arriba</a>
+        <p lang="en" id="copyright">Copyright © 2017 Carlos Sanabria Miranda</p>
+        <p>Esta página web ha sido validada satisfactoriamente:</p>
+        <a href="https://validator.w3.org/check?uri=referer">
+            <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" 
+                 alt="HTML5 Válido" title="HTML5 Válido" />
+        </a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer ">
+            <img src=" http://jigsaw.w3.org/css-validator/images/vcss"
+                 alt="¡CSS Válido!" />
+        </a>
+    </footer>
+</body>
+</html>
