@@ -9,5 +9,5 @@ También se puede escribir directamente en el textarea de arriba un documento js
 Se ha puesto de límite de tamaño al fichero json introducido 1MB, para utilizar la propiedad size del archivo, pero se podría quitar.
  
 Se han incluido dos ficheros json, para poder realizar pruebas:
--El fichero *busgijoninfo.json* no deja abrirlo porque su tamaño es superior a 1MB.
--El fichero *empresas.json* sí deja abrirlo.
+- El fichero *busgijoninfo.json* no deja abrirlo porque su tamaño es superior a 1MB.
+- El fichero *empresas.json* sí deja abrirlo.
