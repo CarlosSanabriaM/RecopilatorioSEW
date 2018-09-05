@@ -1,4 +1,4 @@
-# jQuery Ajax y APIs HTML5
+# jQuery, Ajax y APIs HTML5
 Esta carpeta contiene varios "ejercicios" en los que se realiza computación en el cliente Web usando: la biblioteca jQuery, la tecnología Ajax y el API de HTML5.
 Se utiliza o bien el paradigma de orientación a objetos o el paradigma funcional.
 
