@@ -3,7 +3,14 @@ Al abrir la página, es necesario darle permiso para que acceda a nuestra ubicac
 
 El punto azul indica nuestra posición, y los puntos rojos representan los bares que tenemos cerca.
 
-Si se hace click en un punto rojo, se muestra información sobre dicho bar.
+Arriba hay dos botones:
+- *Ocultar bares cercanos*: Oculta los puntos rojos que representan los bares.
+- *Mostrar bares cercanos*: Muestra los puntos rojos que representan los bares.
+
+Si se hace click en un punto rojo, se muestra información sobre dicho bar. En concreto:
+- Nombre
+- Dirección
+- Puntuación en Google Maps
 
 Arriba a la izquierda se puede cambiar el estilo del mapa (normal, nocturno, satélite, ...)
 
