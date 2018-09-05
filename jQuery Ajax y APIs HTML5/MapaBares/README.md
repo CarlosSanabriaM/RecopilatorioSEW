@@ -1,7 +1,7 @@
 # MapaBares
 Al abrir la página, es necesario darle permiso para que acceda a nuestra ubicación. Es posible que si se tienen deshabilitados los mensajes emergentes no salga dicha notificación.
 
-El punto azul indica nuestra posición, y los puntos rojos representan los bares que tenemos cerca.
+El punto azul indica nuestra posición, y los puntos rojos representan los bares que tenemos cerca. Cada x segundos se vuelve a consultar la posición actual del dispositivo y se actualiza el punto azul.
 
 Arriba hay dos botones:
 - *Ocultar bares cercanos*: Oculta los puntos rojos que representan los bares.
