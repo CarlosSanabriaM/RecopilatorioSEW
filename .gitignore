@@ -1,2 +1,6 @@
 # Mac files
 .DS_Store
+
+# SonarQube
+.scannerwork/
+sonar-project.properties
